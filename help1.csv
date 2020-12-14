@@ -1,0 +1,589 @@
+endTime,artistName,trackName,msPlayed,Genre,Day of the Week
+9/20/2019 23:06,blink-182,Remember To Forget Me,34020,"['pop punk', 'punk', 'socal pop punk']",Friday
+9/25/2019 21:20,Veronica Vega,Wave (feat. Lil Wayne & Jeremih),52226,"['rap latina', 'trap queen']",Wednesday
+9/30/2019 14:40,Old Dominion,Make It Sweet,186133,"['contemporary country', 'country road']",Monday
+9/30/2019 14:43,Chris Young,I'm Comin' Over,197280,"['contemporary country', 'country', 'country road', 'modern country rock']",Monday
+9/30/2019 14:46,Old Dominion,Song for Another Time,191826,"['contemporary country', 'country road']",Monday
+9/30/2019 15:58,Jonas Brothers,Fly With Me,31923,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Monday
+9/30/2019 16:55,Dan + Shay,Stupid Love,194693,"['contemporary country', 'pop']",Monday
+9/30/2019 16:59,Jay Park,좋아 Joah - Remastered,230085,"['k-pop', 'k-rap', 'korean r&b']",Monday
+9/30/2019 17:53,Gente De Zona,Yo Quiero (Si Tu Te Enamoras),210973,"['cubaton', 'latin', 'latin hip hop', 'latin pop', 'tropical']",Monday
+9/30/2019 19:33,Panic! At The Disco,Nine in the Afternoon - Single Mix,198282,"['baroque pop', 'emo', 'modern rock']",Monday
+9/30/2019 19:35,Little Big Town,From This Dream,125633,"['contemporary country', 'country', 'country dawn', 'country road']",Monday
+9/30/2019 20:42,Sam Hunt,Leave The Night On,192160,"['contemporary country', 'country pop']",Monday
+9/30/2019 20:45,The Beatles,I Want To Hold Your Hand - Remastered 2015,145746,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",Monday
+9/30/2019 20:49,Florida Georgia Line,Simple,185200,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Monday
+9/30/2019 21:01,Greek Fire,Top of the World,79467,['stl indie'],Monday
+9/30/2019 21:15,Jonas Brothers,Strangers,167523,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Monday
+10/1/2019 0:00,Phil Collins,You Can't Hurry Love - 2016 Remaster,39739,"['mellow gold', 'rock drums', 'soft rock']",Tuesday
+10/1/2019 2:25,Mark Ronson,Valerie (feat. Amy Winehouse) - Version Revisited,85646,"['dance pop', 'pop', 'pop dance']",Tuesday
+10/1/2019 14:59,Mark Ronson,Valerie (feat. Amy Winehouse) - Version Revisited,219413,"['dance pop', 'pop', 'pop dance']",Tuesday
+10/1/2019 15:55,Hillsong Worship,I Surrender - Live,224657,"['ccm', 'russian ccm', 'world worship', 'worship']",Tuesday
+10/1/2019 17:12,Jonas Brothers,Paranoid,155412,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Tuesday
+10/1/2019 18:08,Old Dominion,My Heart Is a Bar,238986,"['contemporary country', 'country road']",Tuesday
+10/1/2019 18:17,Twenty One Pilots,Not Today,228393,"['modern rock', 'rock']",Tuesday
+10/1/2019 18:19,Twenty One Pilots,House of Gold,163880,"['modern rock', 'rock']",Tuesday
+10/1/2019 18:45,Boys Like Girls,Five Minutes to Midnight,209567,"['neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop']",Tuesday
+10/1/2019 20:06,Robin Schulz,Sugar (feat. Francesco Yates),219043,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",Tuesday
+10/1/2019 20:18,Joe Jonas,"Gotta Find You - From ""Camp Rock""/Soundtrack Version",194698,['post-teen pop'],Tuesday
+10/1/2019 20:25,Mark Keali'i Ho'omalu,"He Mele No Lilo - From ""Lilo & Stitch""/Soundtrack Version",148133,['movie tunes'],Tuesday
+10/1/2019 20:56,blink-182,Darkside,180960,"['pop punk', 'punk', 'socal pop punk']",Tuesday
+10/1/2019 20:57,Haley & Michaels,Giving It All (To You),54899,"['contemporary country', 'country pop']",Tuesday
+10/1/2019 21:00,Bowling For Soup,Almost,206160,"['comic', 'pop punk', 'texas pop punk']",Tuesday
+10/1/2019 21:02,Old Dominion,No Such Thing as a Broken Heart,68909,"['contemporary country', 'country road']",Tuesday
+10/1/2019 21:28,Rush,Limelight,259840,"['album rock', 'art rock', 'canadian metal', 'classic canadian rock', 'classic rock', 'hard rock', 'metal', 'progressive rock', 'rock']",Tuesday
+10/1/2019 21:40,Jet,Are You Gonna Be My Girl,213800,"['alternative rock', 'garage rock', 'modern rock', 'rock']",Tuesday
+10/1/2019 21:45,Eminem,Without Me,290320,"['detroit hip hop', 'hip hop', 'rap']",Tuesday
+10/1/2019 21:49,Santana,Into the Night (feat. Chad Kroeger),222440,"['blues rock', 'classic rock', 'mexican classic rock', 'rock']",Tuesday
+10/1/2019 21:57,U2,Vertigo,194520,"['irish rock', 'permanent wave', 'rock']",Tuesday
+10/1/2019 22:11,High Valley,I Be U Be,213093,"['alberta country', 'canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Tuesday
+10/1/2019 22:15,U2,The Miracle (Of Joey Ramone),255382,"['irish rock', 'permanent wave', 'rock']",Tuesday
+10/1/2019 22:39,Nick Jonas,"Introducing Me - From ""Camp Rock 2: The Final Jam""",162544,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'viral pop']",Tuesday
+10/2/2019 0:55,BROWN & GRAY,Top Down,181594,['country pop'],Wednesday
+10/2/2019 0:58,Guy Sebastian,Like It Like That,104385,"['australian pop', 'australian talent show']",Wednesday
+10/2/2019 3:21,HIXTAPE,Nothin’ Out Here (HARDY feat. Thomas Rhett),214600,['contemporary country'],Wednesday
+10/2/2019 3:22,Uzuhan,Uzusauce,56308,['christian trap'],Wednesday
+10/2/2019 3:34,Billy Joel,We Didn't Start the Fire,287733,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",Wednesday
+10/2/2019 3:43,Kenny Chesney,All the Pretty Girls,212893,"['contemporary country', 'country', 'country road']",Wednesday
+10/2/2019 3:55,Zac Brown Band,Chicken Fried,82174,"['contemporary country', 'country', 'country road', 'modern country rock']",Wednesday
+10/2/2019 4:11,John Denver,"Take Me Home, Country Roads - Rerecorded",197813,"['adult standards', 'classic country pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",Wednesday
+10/2/2019 4:15,Mark Ronson,Valerie (feat. Amy Winehouse) - Version Revisited,219413,"['dance pop', 'pop', 'pop dance']",Wednesday
+10/2/2019 4:20,Brewer & Shipley,One Toke Over the Line,199041,"['country rock', 'folk rock', 'mellow gold', 'soft rock']",Wednesday
+10/2/2019 4:49,Matthew West,Grace Wins,42623,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Wednesday
+10/2/2019 16:37,Sidewalk Prophets,Smile,176133,"['anthem worship', 'ccm', 'christian alternative rock', 'christian indie', 'christian music', 'christian pop', 'worship']",Wednesday
+10/2/2019 16:41,Jonas Brothers,S.O.S.,153346,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Wednesday
+10/2/2019 16:48,Rudimental,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",210772,"['dance pop', 'edm', 'house', 'liquid funk', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']",Wednesday
+10/2/2019 18:56,Pentatonix,Sing,105597,['a cappella'],Wednesday
+10/2/2019 21:07,The Beach Boys,Little Saint Nick - 1991 Remix,80098,"['baroque pop', 'brill building pop', 'classic rock', 'folk rock', 'psychedelic rock', 'rock', 'sunshine pop']",Wednesday
+10/2/2019 21:11,First Class,Beach Baby,289681,"['rock', 'pop']",Wednesday
+10/2/2019 21:14,Straight No Chaser,Feels like Christmas (feat. Jana Kramer),179186,['a cappella'],Wednesday
+10/2/2019 21:17,Thomas Rhett,Sixteen,178333,"['contemporary country', 'country', 'country road', 'modern country rock']",Wednesday
+10/2/2019 21:28,Backstreet Boys,It's Christmas Time Again,203028,"['boy band', 'dance pop', 'europop']",Wednesday
+10/2/2019 21:36,Stellar Kart,Kiss the Girl,201626,"['ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'worship']",Wednesday
+10/2/2019 21:51,Beach Avenue,Coming Your Way,85841,['pop'],Wednesday
+10/2/2019 22:30,Frankie Valli & The Four Seasons,I've Got You Under My Skin,49043,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'lounge', 'motown', 'northern soul', 'rock-and-roll']",Wednesday
+10/2/2019 22:32,Frankie Valli & The Four Seasons,Alone,69123,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'lounge', 'motown', 'northern soul', 'rock-and-roll']",Wednesday
+10/2/2019 22:32,Frankie Valli & The Four Seasons,C'mon Marianne,30430,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'lounge', 'motown', 'northern soul', 'rock-and-roll']",Wednesday
+10/2/2019 22:34,Frankie Valli & The Four Seasons,Our Day Will Come - Live,33392,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'lounge', 'motown', 'northern soul', 'rock-and-roll']",Wednesday
+10/2/2019 22:57,Jonas Brothers,Fly With Me,142863,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Wednesday
+10/2/2019 23:37,Blue Öyster Cult,Burnin' for You,177412,"['album rock', 'art rock', 'blues rock', 'classic rock', 'hard rock', 'metal', 'rock', 'soft rock']",Wednesday
+10/2/2019 23:41,Sister Hazel,Mandolin Moon,214346,"['acoustic pop', 'neo mellow', 'pop rock']",Wednesday
+10/3/2019 0:47,The Ready Set,Love Like Woe,119361,"['alternative pop rock', 'neon pop punk', 'pixie', 'pop emo', 'pop punk', 'post-teen pop']",Thursday
+10/3/2019 0:58,Jay Park,좋아 Joah - Remastered,192487,"['k-pop', 'k-rap', 'korean r&b']",Thursday
+10/3/2019 4:18,Zac Brown Band,From Now On,104885,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/3/2019 4:19,Zac Brown Band,Sweet Annie,72842,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/3/2019 15:04,Old Dominion,Song for Another Time,191826,"['contemporary country', 'country road']",Thursday
+10/3/2019 15:08,Elvis Presley,Burning Love - Live,177080,"['rock-and-roll', 'rockabilly']",Thursday
+10/3/2019 16:08,Phillip Phillips,Home,172464,"['folk-pop', 'modern rock', 'neo mellow', 'pop rock']",Thursday
+10/3/2019 16:24,Jonas Brothers,Paranoid,218266,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Thursday
+10/3/2019 16:27,Cast Of Camp Rock,We Rock,190933,['post-teen pop'],Thursday
+10/3/2019 16:30,Unspoken,Who You Are,204013,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'christian pop', 'worship']",Thursday
+10/3/2019 16:35,Michael Jackson,Beat It - Single Version,258040,"['pop', 'r&b', 'soul']",Thursday
+10/3/2019 16:38,American Authors,Go Big Or Go Home,169026,"['indie poptimism', 'modern alternative rock', 'modern rock', 'pop rock']",Thursday
+10/3/2019 16:41,Rag'n'Bone Man,Human,200186,['neo soul'],Thursday
+10/3/2019 16:46,Eminem,The Real Slim Shady,284200,"['detroit hip hop', 'hip hop', 'rap']",Thursday
+10/3/2019 16:50,Nena,99 Red Balloons - Club Mix,281453,"['german pop', 'german rock', 'new wave pop']",Thursday
+10/3/2019 16:54,Keith Urban,You'll Think Of Me - Single Version,231293,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",Thursday
+10/3/2019 16:58,Boys Like Girls,Be Your Everything,210706,"['neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop']",Thursday
+10/3/2019 17:01,Brewer & Shipley,One Toke Over the Line,199041,"['country rock', 'folk rock', 'mellow gold', 'soft rock']",Thursday
+10/3/2019 17:05,We The Kings,"Check Yes, Juliet",220146,"['neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']",Thursday
+10/3/2019 17:23,Straight No Chaser,Text Me Merry Christmas (feat. Kristen Bell),48699,['a cappella'],Thursday
+10/3/2019 23:40,Taylor Swift,I Forgot That You Existed,39773,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Thursday
+10/3/2019 23:41,Taylor Swift,Cruel Summer,50858,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Thursday
+10/3/2019 23:43,Taylor Swift,Lover,142992,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Thursday
+10/3/2019 23:45,Taylor Swift,The Archer,67049,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Thursday
+10/3/2019 23:47,Taylor Swift,I Think He Knows,93457,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Thursday
+10/3/2019 23:48,Taylor Swift,Miss Americana & The Heartbreak Prince,56207,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Thursday
+10/3/2019 23:49,Taylor Swift,Paper Rings,66741,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Thursday
+10/3/2019 23:50,Taylor Swift,Cornelia Street,68718,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Thursday
+10/3/2019 23:51,Taylor Swift,Death By A Thousand Cuts,59228,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Thursday
+10/3/2019 23:52,Taylor Swift,London Boy,79289,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Thursday
+10/3/2019 23:56,Taylor Swift,Daylight,46468,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Thursday
+10/4/2019 0:03,Taylor Swift,State Of Grace,136213,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/4/2019 0:05,Taylor Swift,Red,34259,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/4/2019 0:07,Taylor Swift,Red,35059,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/4/2019 0:09,Jon Bellion,Morning In America,108574,['pop rap'],Friday
+10/4/2019 0:10,Taylor Swift,Treacherous,80898,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/4/2019 0:14,Taylor Swift,All Too Well,118065,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/4/2019 0:19,Taylor Swift,Stay Stay Stay,78177,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/4/2019 0:21,Taylor Swift,The Last Time,106688,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/4/2019 0:22,Taylor Swift,Holy Ground,92466,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/4/2019 0:23,Taylor Swift,Sad Beautiful Tragic,52539,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/4/2019 0:24,Taylor Swift,The Lucky One,71962,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/4/2019 0:25,Taylor Swift,Everything Has Changed,72841,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/4/2019 0:26,Taylor Swift,Starlight,62060,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/4/2019 0:27,Taylor Swift,Begin Again,43920,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/4/2019 0:30,Old Dominion,Half Empty,34843,"['contemporary country', 'country road']",Friday
+10/4/2019 4:06,Fall Out Boy,"Sugar, We're Goin Down",220158,"['emo', 'modern rock', 'pop punk']",Friday
+10/4/2019 4:16,Pitbull,Echa Pa'lla (Manos Pa'rriba) (feat. Papayo),196440,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance', 'pop rap']",Friday
+10/4/2019 4:32,Jet,Are You Gonna Be My Girl,213800,"['alternative rock', 'garage rock', 'modern rock', 'rock']",Friday
+10/4/2019 4:35,The All-American Rejects,Dirty Little Secret,193653,"['modern rock', 'neo mellow', 'pop punk', 'pop rock']",Friday
+10/4/2019 4:44,Robin Schulz,Sugar (feat. Francesco Yates),219043,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",Friday
+10/4/2019 14:30,Billy Joel,We Didn't Start the Fire,287733,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",Friday
+10/4/2019 14:34,Thomas Rhett,Marry Me,205453,"['contemporary country', 'country', 'country road', 'modern country rock']",Friday
+10/4/2019 15:01,Old Dominion,Written in the Sand,184080,"['contemporary country', 'country road']",Friday
+10/4/2019 15:43,Zac Brown Band,Keep Me in Mind,193698,"['contemporary country', 'country', 'country road', 'modern country rock']",Friday
+10/4/2019 18:51,Taylor Swift,State Of Grace,140450,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/5/2019 1:18,Dan + Shay,"10,000 Hours (with Justin Bieber)",164668,"['contemporary country', 'pop']",Saturday
+10/5/2019 1:40,Luke Combs,When It Rains It Pours,193600,['contemporary country'],Saturday
+10/5/2019 20:27,Jonas Brothers,Fly With Me,234146,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Saturday
+10/5/2019 20:35,Stellar Kart,Can You Feel The Love Tonight,224573,"['ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'worship']",Saturday
+10/5/2019 20:52,The Goo Goo Dolls,Sympathy,178146,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",Saturday
+10/5/2019 20:59,Robin Schulz,Sugar (feat. Francesco Yates),219043,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",Saturday
+10/5/2019 21:03,Phillip Phillips,"Gone, Gone, Gone",209693,"['folk-pop', 'modern rock', 'neo mellow', 'pop rock']",Saturday
+10/5/2019 21:16,Phillip Phillips,Home,210173,"['folk-pop', 'modern rock', 'neo mellow', 'pop rock']",Saturday
+10/5/2019 21:25,Justin Moore,If Heaven Wasn't So Far Away,50983,"['arkansas country', 'contemporary country', 'country', 'country road', 'modern country rock', 'redneck']",Saturday
+10/6/2019 4:41,Kacey Musgraves,Follow Your Arrow,199640,"['contemporary country', 'country dawn', 'pop', 'texas country']",Sunday
+10/6/2019 4:44,Guster,This Could All Be Yours,212146,"['boston rock', 'modern rock', 'neo mellow', 'pop rock']",Sunday
+10/6/2019 4:48,Chris Tomlin,Holy Is The Lord,252533,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Sunday
+10/6/2019 4:51,Pentatonix,Cheerleader,183066,['a cappella'],Sunday
+10/6/2019 4:54,Jonas Brothers,Sucker,181040,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Sunday
+10/6/2019 4:58,Kid Ink,Ride Out,211908,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Sunday
+10/6/2019 5:04,Dan + Shay,Tequila - Acoustic,195320,"['contemporary country', 'pop']",Sunday
+10/6/2019 5:09,"Phillips, Craig & Dean",You Are God Alone (Not A God),258480,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Sunday
+10/6/2019 5:12,Carly Rae Jepsen,Everywhere You Look (The Fuller House Theme),198207,"['canadian pop', 'dance pop', 'electropop', 'indie poptimism', 'pop', 'pop dance', 'post-teen pop']",Sunday
+10/6/2019 5:15,Pentatonix,White Winter Hymnal,167253,['a cappella'],Sunday
+10/6/2019 5:21,Lobo,I'd Love You to Want Me,247640,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",Sunday
+10/6/2019 5:25,The Spinners,The Rubberband Man,215109,"['classic soul', 'disco', 'funk', 'motown', 'philly soul', 'quiet storm', 'soft rock', 'soul', 'southern soul']",Sunday
+10/6/2019 5:29,Rob Thomas,Streetcorner Symphony,247826,"['acoustic pop', 'neo mellow', 'pop rock']",Sunday
+10/6/2019 5:32,Billy Currington,Hey Girl,198301,"['contemporary country', 'country', 'country road', 'modern country rock']",Sunday
+10/7/2019 14:40,Zac Brown Band,From Now On,260960,"['contemporary country', 'country', 'country road', 'modern country rock']",Monday
+10/7/2019 14:44,Eminem,Without Me,248090,"['detroit hip hop', 'hip hop', 'rap']",Monday
+10/7/2019 14:51,Phil Collins,You Can't Hurry Love - 2016 Remaster,175746,"['mellow gold', 'rock drums', 'soft rock']",Monday
+10/7/2019 14:55,Taylor Swift,Holy Ground,201853,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Monday
+10/7/2019 15:26,Taron Egerton,"I'm Still Standing - From ""Sing"" Original Motion Picture Soundtrack",187853,['hollywood'],Monday
+10/7/2019 15:28,Jonas Brothers,Paranoid,106637,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Monday
+10/7/2019 16:41,Jonas Brothers,Paranoid,111629,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Monday
+10/7/2019 19:15,Maroon 5,Lucky Strike,99381,"['pop', 'pop rock']",Monday
+10/7/2019 19:42,Maroon 5,Lucky Strike,86185,"['pop', 'pop rock']",Monday
+10/7/2019 20:19,Jonas Brothers,Lovebug,133059,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Monday
+10/7/2019 23:59,Dan + Shay,My Side of the Fence,122353,"['contemporary country', 'pop']",Monday
+10/8/2019 15:08,"Earth, Wind & Fire",September,215080,"['disco', 'funk', 'jazz funk', 'motown', 'quiet storm', 'soul']",Tuesday
+10/8/2019 15:12,Old Dominion,Snapback,206506,"['contemporary country', 'country road']",Tuesday
+10/8/2019 15:25,Zac Brown Band,My Old Man,227222,"['contemporary country', 'country', 'country road', 'modern country rock']",Tuesday
+10/8/2019 16:07,Duran Duran,Hungry Like the Wolf - 2009 Remaster,220626,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'synthpop']",Tuesday
+10/8/2019 16:11,Jay Park,좋아 Joah - Remastered,212283,"['k-pop', 'k-rap', 'korean r&b']",Tuesday
+10/8/2019 17:17,Taylor Swift,Holy Ground,140571,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Tuesday
+10/8/2019 20:00,Old Dominion,Make It Sweet,186133,"['contemporary country', 'country road']",Tuesday
+10/8/2019 20:01,Becky G,Mayores,55814,"['dance pop', 'latin', 'latin pop', 'latin viral pop', 'pop', 'post-teen pop', 'rap latina', 'reggaeton', 'trap latino']",Tuesday
+10/8/2019 20:09,Rex Orange County,Sunflower,252230,"['bedroom pop', 'pop']",Tuesday
+10/8/2019 20:42,Dan + Shay,Speechless,159598,"['contemporary country', 'pop']",Tuesday
+10/8/2019 21:14,Paramore,Misery Business,208299,"['candy pop', 'emo', 'pixie', 'pop emo', 'pop punk']",Tuesday
+10/8/2019 21:21,blink-182,Darkside,180960,"['pop punk', 'punk', 'socal pop punk']",Tuesday
+10/8/2019 21:22,Train,"Hey, Soul Sister",34959,"['neo mellow', 'pop', 'pop rock']",Tuesday
+10/8/2019 21:25,DMX,Party Up,164721,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",Tuesday
+10/8/2019 21:41,Sweet,Ballroom Blitz,246573,"['album rock', 'blues rock', 'classic rock', 'classic uk pop', 'glam rock', 'hard rock', 'rock']",Tuesday
+10/8/2019 21:54,Eminem,Berzerk,238746,"['detroit hip hop', 'hip hop', 'rap']",Tuesday
+10/8/2019 21:58,Hollywood Undead,Day Of The Dead,235240,"['alternative metal', 'nu metal', 'pop punk', 'rap metal', 'rap rock']",Tuesday
+10/8/2019 22:08,Daddy Yankee,Limbo,224693,"['latin', 'latin hip hop', 'reggaeton', 'trap latino', 'tropical']",Tuesday
+10/8/2019 22:12,Boys Like Girls,Five Minutes to Midnight,227360,"['neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop']",Tuesday
+10/8/2019 22:16,The Killers,Mr. Brightside,222586,"['modern rock', 'permanent wave', 'rock']",Tuesday
+10/8/2019 22:38,Bowling For Soup,Almost,206160,"['comic', 'pop punk', 'texas pop punk']",Tuesday
+10/8/2019 22:41,Elvis Presley,Stuck on You,139640,"['rock-and-roll', 'rockabilly']",Tuesday
+10/8/2019 22:46,Elvis Presley,Burning Love - Live,110277,"['rock-and-roll', 'rockabilly']",Tuesday
+10/9/2019 16:39,Taylor Swift,All Too Well,327893,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Wednesday
+10/9/2019 16:40,Stellar Kart,A Whole New World,65124,"['ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'worship']",Wednesday
+10/9/2019 18:53,Sidewalk Prophets,Smile,113547,"['anthem worship', 'ccm', 'christian alternative rock', 'christian indie', 'christian music', 'christian pop', 'worship']",Wednesday
+10/9/2019 20:33,Neil Diamond,Cracklin' Rosie,178853,"['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",Wednesday
+10/9/2019 20:44,The Goo Goo Dolls,Come to Me,225333,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",Wednesday
+10/9/2019 20:47,Taylor Swift,You Belong With Me,232120,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Wednesday
+10/9/2019 20:52,Stellar Kart,Can You Feel The Love Tonight,224573,"['ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'worship']",Wednesday
+10/9/2019 21:07,Thomas Rhett,Marry Me,205453,"['contemporary country', 'country', 'country road', 'modern country rock']",Wednesday
+10/9/2019 21:24,Passion,In Christ Alone - Live,53943,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Wednesday
+10/9/2019 23:53,Train,Drops of Jupiter (Tell Me),259933,"['neo mellow', 'pop', 'pop rock']",Wednesday
+10/10/2019 0:00,The Goo Goo Dolls,Iris,289906,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",Thursday
+10/10/2019 15:15,Dan + Shay,Speechless,212745,"['contemporary country', 'pop']",Thursday
+10/10/2019 15:21,Zac Brown Band,Colder Weather,273893,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/10/2019 16:39,Joe Jonas,"Gotta Find You - From ""Camp Rock""/Soundtrack Version",165894,['post-teen pop'],Thursday
+10/10/2019 22:07,We The Kings,"Check Yes, Juliet",119635,"['neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']",Thursday
+10/11/2019 16:31,Taylor Swift,Holy Ground,200146,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/11/2019 16:34,Neil Diamond,Cracklin' Rosie,178853,"['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",Friday
+10/11/2019 18:47,Rend Collective,Build Your Kingdom Here,65061,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'indiecoustica', 'roots worship', 'uk worship', 'world worship', 'worship']",Friday
+10/11/2019 18:53,Elvis Presley,Stuck on You,139640,"['rock-and-roll', 'rockabilly']",Friday
+10/11/2019 18:56,Ed Sheeran,Remember The Name (feat. Eminem & 50 Cent),199458,"['pop', 'uk pop']",Friday
+10/11/2019 20:42,Zac Brown Band,2 Places at 1 Time,147083,"['contemporary country', 'country', 'country road', 'modern country rock']",Friday
+10/11/2019 21:14,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",218776,"['dance pop', 'hollywood', 'movie tunes', 'post-teen pop', 'show tunes']",Friday
+10/11/2019 21:17,Neil Diamond,Cracklin' Rosie,178853,"['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",Friday
+10/11/2019 21:21,Old Dominion,My Heart Is a Bar,238986,"['contemporary country', 'country road']",Friday
+10/11/2019 21:27,Billy Joel,We Didn't Start the Fire,142321,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",Friday
+10/11/2019 21:58,Bowling For Soup,Almost,206160,"['comic', 'pop punk', 'texas pop punk']",Friday
+10/11/2019 22:01,Victorious Cast,Take A Hint,84784,"['dance pop', 'post-teen pop', 'social media pop', 'viral pop']",Friday
+10/13/2019 7:19,Stellar Kart,For the First Time in Forever,43035,"['ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'worship']",Sunday
+10/13/2019 22:05,Prince Royce,Back It Up (feat. Jennifer Lopez & Pitbull) - Spanish Version,200952,"['bachata', 'latin', 'latin hip hop', 'latin pop', 'trap latino', 'tropical']",Sunday
+10/13/2019 22:15,Fall Out Boy,Dear Future Self (Hands Up) [feat. Wyclef Jean],171173,"['emo', 'modern rock', 'pop punk']",Sunday
+10/13/2019 22:22,Rascal Flatts,My Wish,248280,"['contemporary country', 'country', 'country road']",Sunday
+10/13/2019 22:29,Zac Brown Band,As She's Walking Away (feat. Alan Jackson),100000,"['contemporary country', 'country', 'country road', 'modern country rock']",Sunday
+10/13/2019 22:36,The All-American Rejects,Dirty Little Secret,193653,"['modern rock', 'neo mellow', 'pop punk', 'pop rock']",Sunday
+10/13/2019 22:36,Chris Tomlin,Come Home Running,37917,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Sunday
+10/14/2019 14:40,Dan + Shay,My Side of the Fence,219826,"['contemporary country', 'pop']",Monday
+10/14/2019 15:43,Eagles,Take It Easy - 2013 Remaster,193870,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",Monday
+10/14/2019 16:44,Old Dominion,Nowhere Fast,188960,"['contemporary country', 'country road']",Monday
+10/14/2019 16:48,Pitbull,Echa Pa'lla (Manos Pa'rriba) (feat. Papayo),196440,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance', 'pop rap']",Monday
+10/14/2019 16:52,Stellar Kart,Can You Feel The Love Tonight,224573,"['ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'worship']",Monday
+10/14/2019 18:51,Zac Brown Band,Mango Tree,95286,"['contemporary country', 'country', 'country road', 'modern country rock']",Monday
+10/14/2019 20:47,ABBA,Chiquitita,284460,"['europop', 'swedish pop']",Monday
+10/14/2019 20:50,Neil Diamond,Cracklin' Rosie,178853,"['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",Monday
+10/14/2019 21:37,Old Dominion,Break Up with Him,154205,"['contemporary country', 'country road']",Monday
+10/15/2019 15:04,Rex Orange County,Loving Is Easy,155720,"['bedroom pop', 'pop']",Tuesday
+10/15/2019 15:04,Macklemore & Ryan Lewis,Same Love - feat. Mary Lambert,32770,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",Tuesday
+10/15/2019 15:15,Old Dominion,Half Empty,170800,"['contemporary country', 'country road']",Tuesday
+10/15/2019 15:19,Taylor Swift,Holy Ground,201853,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Tuesday
+10/15/2019 16:08,Passion,"Lord, I Need You - Live",274645,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Tuesday
+10/15/2019 16:11,The Lonely Island,Semicolon,154933,"['comedy rap', 'comic']",Tuesday
+10/15/2019 16:14,Moon Taxi,Two High,213120,"['indie pop', 'indie poptimism', 'modern alternative rock', 'modern rock', 'pop rock', 'stomp and holler']",Tuesday
+10/15/2019 21:13,Sweet,Ballroom Blitz,246573,"['album rock', 'blues rock', 'classic rock', 'classic uk pop', 'glam rock', 'hard rock', 'rock']",Tuesday
+10/15/2019 21:17,Blackjack Billy,Born to Ride,219693,['modern southern rock'],Tuesday
+10/15/2019 21:32,Daddy Yankee,Limbo,224693,"['latin', 'latin hip hop', 'reggaeton', 'trap latino', 'tropical']",Tuesday
+10/15/2019 21:39,U2,The Miracle (Of Joey Ramone),255382,"['irish rock', 'permanent wave', 'rock']",Tuesday
+10/15/2019 21:47,Fall Out Boy,"Sugar, We're Goin Down",229093,"['emo', 'modern rock', 'pop punk']",Tuesday
+10/15/2019 21:51,Paramore,Misery Business,211520,"['candy pop', 'emo', 'pixie', 'pop emo', 'pop punk']",Tuesday
+10/15/2019 21:55,Twenty One Pilots,Fake You Out,231320,"['modern rock', 'rock']",Tuesday
+10/15/2019 21:59,Brett Dennen,Comeback Kid (That's My Dog),204187,"['acoustic pop', 'indie folk', 'neo mellow', 'pop rock', 'stomp and holler']",Tuesday
+10/15/2019 22:02,blink-182,Darkside,177124,"['pop punk', 'punk', 'socal pop punk']",Tuesday
+10/15/2019 22:05,Bowling For Soup,Almost,206160,"['comic', 'pop punk', 'texas pop punk']",Tuesday
+10/15/2019 22:12,Robin Schulz,Sugar (feat. Francesco Yates),219043,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",Tuesday
+10/15/2019 22:16,Skillet,Feel Invincible,229933,"['alternative metal', 'christian alternative rock', 'christian music', 'christian rock']",Tuesday
+10/15/2019 22:29,Fall Out Boy,The Phoenix,244960,"['emo', 'modern rock', 'pop punk']",Tuesday
+10/15/2019 22:29,Ozzy Osbourne,Crazy Train,35242,"['album rock', 'birmingham metal', 'hard rock', 'metal', 'rock']",Tuesday
+10/15/2019 22:33,Boys Like Girls,Five Minutes to Midnight,227360,"['neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop']",Tuesday
+10/15/2019 22:53,blink-182,She's Out Of Her Mind,162720,"['pop punk', 'punk', 'socal pop punk']",Tuesday
+10/15/2019 22:56,Veronica Vega,Wave (feat. Lil Wayne & Jeremih),212466,"['rap latina', 'trap queen']",Tuesday
+10/15/2019 23:00,Pitbull,Haciendo Ruido,188800,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance', 'pop rap']",Tuesday
+10/15/2019 23:02,Eminem,'Till I Collapse,92304,"['detroit hip hop', 'hip hop', 'rap']",Tuesday
+10/16/2019 16:45,Taron Egerton,"I'm Still Standing - From ""Sing"" Original Motion Picture Soundtrack",187853,['hollywood'],Wednesday
+10/16/2019 16:53,Elvis Presley,Stuck on You,139640,"['rock-and-roll', 'rockabilly']",Wednesday
+10/16/2019 17:52,Ozomatli,After Party,225960,"['latin alternative', 'latinx alternative']",Wednesday
+10/16/2019 17:59,MKTO,How Can I Forget,177140,"['dance pop', 'pop', 'pop rap', 'pop rock', 'post-teen pop']",Wednesday
+10/16/2019 20:17,Uncle Kracker,Floatin',178816,"['country', 'country road', 'pop rock']",Wednesday
+10/16/2019 20:23,Ed Sheeran,Remember The Name (feat. Eminem & 50 Cent),207760,"['pop', 'uk pop']",Wednesday
+10/16/2019 20:28,Crowder,Come As You Are,289746,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'worship']",Wednesday
+10/16/2019 20:29,Gwen Stefani,The Sweet Escape,33232,"['dance pop', 'europop', 'hip pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop', 'urban contemporary']",Wednesday
+10/16/2019 21:05,Taylor Swift,The Lucky One,91437,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Wednesday
+10/16/2019 22:26,Old Dominion,Some People Do,192492,"['contemporary country', 'country road']",Wednesday
+10/16/2019 22:32,Thomas Rhett,Up,77248,"['contemporary country', 'country', 'country road', 'modern country rock']",Wednesday
+10/16/2019 22:39,The Goo Goo Dolls,Come to Me,225333,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",Wednesday
+10/17/2019 0:07,Chris Tomlin,Resurrection Power,46964,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Thursday
+10/17/2019 2:58,Thomas Rhett,Marry Me,141397,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/17/2019 3:19,Sweet,Ballroom Blitz,246573,"['album rock', 'blues rock', 'classic rock', 'classic uk pop', 'glam rock', 'hard rock', 'rock']",Thursday
+10/17/2019 3:30,Fall Out Boy,"Sugar, We're Goin Down",229093,"['emo', 'modern rock', 'pop punk']",Thursday
+10/17/2019 3:34,Pitbull,Echa Pa'lla (Manos Pa'rriba) (feat. Papayo),196440,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance', 'pop rap']",Thursday
+10/17/2019 3:38,Lecrae,Tell The World,216726,"['ccm', 'christian alternative rock', 'christian hip hop', 'christian music', 'worship']",Thursday
+10/17/2019 3:38,Sports Machine,Chicago Bulls Theme Song (Sirius) [stadium Version],34023,['instrumental rock'],Thursday
+10/17/2019 3:44,Fall Out Boy,The Phoenix,244960,"['emo', 'modern rock', 'pop punk']",Thursday
+10/17/2019 3:50,Tech N9ne,Worldwide Choppers,326426,"['hip hop', 'kansas city hip hop', 'pop rap', 'rap']",Thursday
+10/17/2019 4:32,Veronica Vega,Wave (feat. Lil Wayne & Jeremih),106203,"['rap latina', 'trap queen']",Thursday
+10/17/2019 4:45,Old Dominion,Some People Do,80867,"['contemporary country', 'country road']",Thursday
+10/17/2019 15:06,Thomas Rhett,Almost,191591,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/17/2019 15:30,Rex Orange County,Sunflower,117234,"['bedroom pop', 'pop']",Thursday
+10/17/2019 16:06,Thomas Rhett,Notice,222853,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/17/2019 16:10,Taylor Swift,Holy Ground,201853,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Thursday
+10/17/2019 16:12,Maddie & Tae,Fly,122833,"['contemporary country', 'country']",Thursday
+10/17/2019 16:16,Old Dominion,My Heart Is a Bar,238986,"['contemporary country', 'country road']",Thursday
+10/17/2019 16:18,Creedence Clearwater Revival,Down On The Corner,135687,"['album rock', 'classic rock', 'country rock', 'rock', 'roots rock', 'southern rock', 'swamp rock']",Thursday
+10/17/2019 17:38,Post Malone,Candy Paint,109243,"['dfw rap', 'melodic rap', 'rap']",Thursday
+10/17/2019 19:56,Thomas Rhett,Notice,222853,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/17/2019 19:57,Allman Brothers Band,Ramblin' Man,69644,"['album rock', 'blues rock', 'classic rock', 'country rock', 'double drumming', 'electric blues', 'folk rock', 'hard rock', 'jam band', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock', 'southern rock']",Thursday
+10/17/2019 19:59,ABBA,Chiquitita,109631,"['europop', 'swedish pop']",Thursday
+10/17/2019 20:05,Dan + Shay,"10,000 Hours (with Justin Bieber)",149933,"['contemporary country', 'pop']",Thursday
+10/17/2019 21:14,Fall Out Boy,"Sugar, We're Goin Down",227092,"['emo', 'modern rock', 'pop punk']",Thursday
+10/17/2019 21:34,U2,The Miracle (Of Joey Ramone),255382,"['irish rock', 'permanent wave', 'rock']",Thursday
+10/17/2019 21:37,High Valley,I Be U Be,213093,"['alberta country', 'canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Thursday
+10/17/2019 21:54,Jet,Are You Gonna Be My Girl,213800,"['alternative rock', 'garage rock', 'modern rock', 'rock']",Thursday
+10/17/2019 21:57,Robin Schulz,Sugar (feat. Francesco Yates),92654,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",Thursday
+10/18/2019 2:32,Zac Brown Band,My Old Man,54857,"['contemporary country', 'country', 'country road', 'modern country rock']",Friday
+10/18/2019 2:35,Gin Blossoms,Hey Jealousy,236626,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge', 'rock', 'tempe indie']",Friday
+10/18/2019 2:38,Zac Brown Band,As She's Walking Away (feat. Alan Jackson),116073,"['contemporary country', 'country', 'country road', 'modern country rock']",Friday
+10/18/2019 3:43,Troy,Bet On It,51535,"['australian pop', 'dance pop', 'pop', 'pop dance', 'post-teen pop', 'viral pop']",Friday
+10/18/2019 3:49,Thomas Rhett,Notice,57668,"['contemporary country', 'country', 'country road', 'modern country rock']",Friday
+10/18/2019 3:57,Thomas Rhett,Notice,165882,"['contemporary country', 'country', 'country road', 'modern country rock']",Friday
+10/18/2019 4:05,Old Dominion,One Man Band,186520,"['contemporary country', 'country road']",Friday
+10/18/2019 4:14,The Goo Goo Dolls,Sympathy,178146,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",Friday
+10/18/2019 4:31,Pitbull,Echa Pa'lla (Manos Pa'rriba) (feat. Papayo),196440,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance', 'pop rap']",Friday
+10/18/2019 4:38,Taron Egerton,"I'm Still Standing - From ""Sing"" Original Motion Picture Soundtrack",187853,['hollywood'],Friday
+10/18/2019 4:41,Florida Georgia Line,H.O.L.Y.,194186,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Friday
+10/18/2019 4:45,Junior Doctor,Uh Oh,217254,['pop emo'],Friday
+10/18/2019 14:47,Juan Magán,Echa Pa Aca,112735,"['dance pop', 'electro latino', 'latin', 'latin pop', 'reggaeton', 'spanish pop', 'tropical']",Friday
+10/18/2019 15:02,Big Sean,One Man Can Change The World,250091,"['detroit hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Friday
+10/18/2019 15:55,Big Time Rush,Boyfriend,155936,"['boy band', 'dance pop', 'pop', 'post-teen pop']",Friday
+10/18/2019 16:35,Zac Brown Band,My Old Man,129520,"['contemporary country', 'country', 'country road', 'modern country rock']",Friday
+10/18/2019 16:38,Troy,Bet On It,198320,"['australian pop', 'dance pop', 'pop', 'pop dance', 'post-teen pop', 'viral pop']",Friday
+10/18/2019 16:48,Sidewalk Prophets,Smile,176133,"['anthem worship', 'ccm', 'christian alternative rock', 'christian indie', 'christian music', 'christian pop', 'worship']",Friday
+10/18/2019 16:52,Stealers Wheel,Stuck In The Middle With You,203893,"['classic rock', 'classic uk pop', 'folk rock', 'soft rock']",Friday
+10/18/2019 16:53,blink-182,Adam's Song,39184,"['pop punk', 'punk', 'socal pop punk']",Friday
+10/18/2019 18:14,Post Malone,Candy Paint,227533,"['dfw rap', 'melodic rap', 'rap']",Friday
+10/18/2019 18:19,Fall Out Boy,"Sugar, We're Goin Down",229093,"['emo', 'modern rock', 'pop punk']",Friday
+10/18/2019 18:23,Jonas Brothers,Lovebug,220693,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Friday
+10/18/2019 18:38,Jump5,"Aloha, E Komo Mai (Theme Song from Lilo & Stitch: The Series) - Extended Version",144413,['post-teen pop'],Friday
+10/18/2019 18:56,Ed Sheeran,Remember The Name (feat. Eminem & 50 Cent),97130,"['pop', 'uk pop']",Friday
+10/19/2019 21:53,Skylar Grey,Do You Remember,33010,"['electropop', 'piano rock', 'viral pop']",Saturday
+10/19/2019 21:55,Sam Hunt,Kinfolks,30060,"['contemporary country', 'country pop']",Saturday
+10/19/2019 21:58,John Rzeznik,"I'm Still Here (Jim's Theme) - From ""Treasure Planet""/Soundtrack Version",142060,['alternative rock'],Saturday
+10/19/2019 22:09,Troy,Bet On It,74470,"['australian pop', 'dance pop', 'pop', 'pop dance', 'post-teen pop', 'viral pop']",Saturday
+10/22/2019 15:02,Thomas Rhett,Almost,191591,"['contemporary country', 'country', 'country road', 'modern country rock']",Tuesday
+10/22/2019 15:03,Demi Lovato,This Is Me,52724,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Tuesday
+10/22/2019 15:08,ABBA,Chiquitita,327040,"['europop', 'swedish pop']",Tuesday
+10/22/2019 15:09,Fall Out Boy,The Last Of The Real Ones,32192,"['emo', 'modern rock', 'pop punk']",Tuesday
+10/22/2019 15:12,One Direction,No Control,199720,"['boy band', 'pop', 'post-teen pop', 'talent show']",Tuesday
+10/22/2019 15:16,HIXTAPE,Nothin’ Out Here (HARDY feat. Thomas Rhett),214600,['contemporary country'],Tuesday
+10/22/2019 15:55,Twenty One Pilots,Fake You Out,136859,"['modern rock', 'rock']",Tuesday
+10/22/2019 16:17,One Direction,No Control,199720,"['boy band', 'pop', 'post-teen pop', 'talent show']",Tuesday
+10/22/2019 17:48,Post Malone,Candy Paint,148435,"['dfw rap', 'melodic rap', 'rap']",Tuesday
+10/22/2019 21:10,Alan Doyle,"1,2,3,4",65960,"['canadian celtic', 'newfoundland indie', 'nl folk']",Tuesday
+10/22/2019 21:13,Fall Out Boy,"Sugar, We're Goin Down",229093,"['emo', 'modern rock', 'pop punk']",Tuesday
+10/22/2019 21:21,U2,The Miracle (Of Joey Ramone),255382,"['irish rock', 'permanent wave', 'rock']",Tuesday
+10/22/2019 21:27,Pitbull,Hoy Se Bebe,216866,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance', 'pop rap']",Tuesday
+10/22/2019 21:50,Fetty Wap,679 (feat. Monty),186986,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Tuesday
+10/22/2019 22:13,Pitbull,Echa Pa'lla (Manos Pa'rriba) (feat. Papayo),196440,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance', 'pop rap']",Tuesday
+10/22/2019 22:23,Avicii,Levels,321268,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",Tuesday
+10/22/2019 22:30,Relient K,Sadie Hawkins Dance,177600,"['canadian ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'emo', 'pop punk', 'pop rock']",Tuesday
+10/22/2019 22:32,Blackjack Billy,The Booze Cruise,175560,['modern southern rock'],Tuesday
+10/22/2019 22:35,blink-182,Darkside,180960,"['pop punk', 'punk', 'socal pop punk']",Tuesday
+10/22/2019 22:42,Daddy Yankee,Limbo,224693,"['latin', 'latin hip hop', 'reggaeton', 'trap latino', 'tropical']",Tuesday
+10/22/2019 22:44,U2,Vertigo,119334,"['irish rock', 'permanent wave', 'rock']",Tuesday
+10/22/2019 22:46,Old Dominion,My Heart Is a Bar,140637,"['contemporary country', 'country road']",Tuesday
+10/22/2019 23:24,Dan + Shay,"10,000 Hours (with Justin Bieber)",167693,"['contemporary country', 'pop']",Tuesday
+10/22/2019 23:57,Jump5,"Aloha, E Komo Mai (Theme Song from Lilo & Stitch: The Series) - Extended Version",58420,['post-teen pop'],Tuesday
+10/23/2019 16:50,One Direction,No Control,199720,"['boy band', 'pop', 'post-teen pop', 'talent show']",Wednesday
+10/23/2019 16:59,Thomas Rhett,Notice,222853,"['contemporary country', 'country', 'country road', 'modern country rock']",Wednesday
+10/23/2019 17:09,Kygo,Born To Be Yours,139669,"['edm', 'pop', 'pop dance', 'tropical house']",Wednesday
+10/23/2019 17:29,Guy Sebastian,Like It Like That,172564,"['australian pop', 'australian talent show']",Wednesday
+10/23/2019 18:35,Brett Dennen,Comeback Kid (That's My Dog),205373,"['acoustic pop', 'indie folk', 'neo mellow', 'pop rock', 'stomp and holler']",Wednesday
+10/23/2019 18:36,Dan + Shay,19 You + Me,31297,"['contemporary country', 'pop']",Wednesday
+10/23/2019 18:38,Mark Ronson,Valerie (feat. Amy Winehouse) - Version Revisited,165549,"['dance pop', 'pop', 'pop dance']",Wednesday
+10/23/2019 21:10,One Direction,No Control,199720,"['boy band', 'pop', 'post-teen pop', 'talent show']",Wednesday
+10/23/2019 21:15,Mumford & Sons,I Will Wait,276720,"['modern folk rock', 'modern rock', 'stomp and holler', 'uk americana']",Wednesday
+10/23/2019 21:17,High Valley,I Be U Be,147316,"['alberta country', 'canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Wednesday
+10/23/2019 21:25,Skillet,Feel Invincible,229933,"['alternative metal', 'christian alternative rock', 'christian music', 'christian rock']",Wednesday
+10/23/2019 21:29,The Beach Boys,Barbara Ann (Stereo) - Remastered,203000,"['baroque pop', 'brill building pop', 'classic rock', 'folk rock', 'psychedelic rock', 'rock', 'sunshine pop']",Wednesday
+10/23/2019 21:36,Dire Straits,Romeo and Juliet,361395,"['album rock', 'blues rock', 'classic rock', 'mellow gold', 'rock', 'soft rock']",Wednesday
+10/23/2019 21:40,Backstreet Boys,In a World Like This,220216,"['boy band', 'dance pop', 'europop']",Wednesday
+10/23/2019 21:44,Anuel AA,China,178931,"['latin', 'reggaeton', 'reggaeton flow', 'trap latino']",Wednesday
+10/23/2019 21:46,Lunay,Soltera - Remix,68100,"['latin', 'latin pop', 'reggaeton', 'reggaeton flow', 'trap latino', 'tropical']",Wednesday
+10/23/2019 22:03,Sean Kingston,Me Love,204293,"['dance pop', 'miami hip hop', 'pop', 'pop dance', 'post-teen pop', 'urban contemporary']",Wednesday
+10/23/2019 22:07,Mumford & Sons,The Cave,217986,"['modern folk rock', 'modern rock', 'stomp and holler', 'uk americana']",Wednesday
+10/23/2019 22:31,Jonas Brothers,Strangers,233853,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Wednesday
+10/23/2019 22:38,Old Dominion,Snapback,184978,"['contemporary country', 'country road']",Wednesday
+10/23/2019 23:32,The Tokens,Tonight I Met an Angel,118306,"['brill building pop', 'doo-wop', 'sunshine pop']",Wednesday
+10/23/2019 23:39,Brewer & Shipley,One Toke Over the Line,199041,"['country rock', 'folk rock', 'mellow gold', 'soft rock']",Wednesday
+10/24/2019 0:07,Boston,Peace of Mind,272712,"['album rock', 'art rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",Thursday
+10/24/2019 16:03,Zac Brown Band,Highway 20 Ride - Greatest Hits Version,229253,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/24/2019 16:07,Robin Schulz,Sugar (feat. Francesco Yates),219043,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",Thursday
+10/24/2019 16:10,Taio Cruz,Break Your Heart,186266,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",Thursday
+10/24/2019 16:14,Britney Spears,Toxic,158868,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']",Thursday
+10/24/2019 19:11,Matthew West,Truth Be Told,219440,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Thursday
+10/24/2019 19:16,Bowling For Soup,Almost,193953,"['comic', 'pop punk', 'texas pop punk']",Thursday
+10/24/2019 19:20,Zac Brown Band,Whatever It Is - Greatest Hits Version,208346,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/24/2019 19:26,Antonio Banderas,Cancion del Mariachi,127226,['hollywood'],Thursday
+10/24/2019 19:34,Thomas Rhett,Center Point Road,94746,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/24/2019 19:36,Thomas Rhett,That Old Truck,160968,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/24/2019 19:39,Thomas Rhett,VHS,163119,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/24/2019 19:46,Thomas Rhett,Notice,108022,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/24/2019 21:16,Pitbull,Echa Pa'lla (Manos Pa'rriba) (feat. Papayo),196440,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance', 'pop rap']",Thursday
+10/24/2019 21:17,Flo Rida,GDFR (feat. Sage the Gemini and Lookas) - Noodles Remix,67024,"['dance pop', 'miami hip hop', 'pop', 'pop dance', 'pop rap']",Thursday
+10/24/2019 21:40,Boys Like Girls,Five Minutes to Midnight,227360,"['neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop']",Thursday
+10/24/2019 21:51,Foo Fighters,Learn to Fly,235293,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']",Thursday
+10/24/2019 21:53,Willy William,La La La,161847,['francoton'],Thursday
+10/24/2019 21:58,Rush,Limelight,259840,"['album rock', 'art rock', 'canadian metal', 'classic canadian rock', 'classic rock', 'hard rock', 'metal', 'progressive rock', 'rock']",Thursday
+10/24/2019 22:04,Tech N9ne,Worldwide Choppers,326426,"['hip hop', 'kansas city hip hop', 'pop rap', 'rap']",Thursday
+10/24/2019 22:08,Hollywood Undead,Everywhere I Go,210466,"['alternative metal', 'nu metal', 'pop punk', 'rap metal', 'rap rock']",Thursday
+10/24/2019 22:14,Boys Like Girls,Heels Over Head - Tom Lord-Alge Mix,188440,"['neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop']",Thursday
+10/24/2019 22:19,Eminem,Without Me,290320,"['detroit hip hop', 'hip hop', 'rap']",Thursday
+10/24/2019 22:26,Qwote,Throw Your Hands Up (Dancar Kuduro) [Radio Edit] (feat. Pitbull & Lucenzo),213066,['dance music'],Thursday
+10/24/2019 22:30,Skillet,Hero,186813,"['alternative metal', 'christian alternative rock', 'christian music', 'christian rock']",Thursday
+10/24/2019 22:33,Skillet,Monster,178013,"['alternative metal', 'christian alternative rock', 'christian music', 'christian rock']",Thursday
+10/24/2019 22:44,We The Kings,"Check Yes, Juliet",220146,"['neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']",Thursday
+10/24/2019 23:17,Zac Brown Band,Jump Right In - Greatest Hits Version,123961,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/25/2019 14:36,Limahl,Never Ending Story,183587,"['new romantic', 'new wave pop']",Friday
+10/25/2019 14:40,Matthew West,Truth Be Told,219440,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Friday
+10/25/2019 14:44,Justin Bieber,That Should Be Me,230786,"['canadian pop', 'pop', 'post-teen pop']",Friday
+10/25/2019 15:48,Dan + Shay,"10,000 Hours (with Justin Bieber)",139425,"['contemporary country', 'pop']",Friday
+10/25/2019 15:53,Pentatonix,Sing,177240,['a cappella'],Friday
+10/25/2019 16:38,Ed Sheeran,Remember The Name (feat. Eminem & 50 Cent),207760,"['pop', 'uk pop']",Friday
+10/25/2019 18:34,Taylor Swift,State Of Grace,101153,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/25/2019 20:00,Limahl,Never Ending Story,212173,"['new romantic', 'new wave pop']",Friday
+10/25/2019 20:13,Ed Sheeran,Castle on the Hill,261153,"['pop', 'uk pop']",Friday
+10/25/2019 20:28,Taylor Swift,Holy Ground,201853,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Friday
+10/25/2019 20:35,Straight No Chaser,Text Me Merry Christmas (feat. Kristen Bell),160840,['a cappella'],Friday
+10/25/2019 20:49,Neil Diamond,Cracklin' Rosie,178853,"['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",Friday
+10/25/2019 20:53,Dan + Shay,Speechless,212745,"['contemporary country', 'pop']",Friday
+10/25/2019 20:59,Fall Out Boy,"Sugar, We're Goin Down",229093,"['emo', 'modern rock', 'pop punk']",Friday
+10/25/2019 21:30,The Beach Boys,Barbara Ann (Stereo) - Remastered,145489,"['baroque pop', 'brill building pop', 'classic rock', 'folk rock', 'psychedelic rock', 'rock', 'sunshine pop']",Friday
+10/25/2019 23:54,The Goo Goo Dolls,Sympathy,68739,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",Friday
+10/26/2019 5:25,Todd Rundgren,Bang the Drum All Day,36480,"['album rock', 'art rock', 'classic rock', 'country rock', 'dance rock', 'folk', 'folk rock', 'mellow gold', 'philly soul', 'power pop', 'rock', 'roots rock', 'soft rock', 'symphonic rock', 'zolo']",Saturday
+10/27/2019 22:14,Limahl,Never Ending Story,212173,"['new romantic', 'new wave pop']",Sunday
+10/27/2019 22:22,Jonas Blue,Perfect Strangers,30686,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance']",Sunday
+10/27/2019 22:22,Thomas Rhett,Almost,191591,"['contemporary country', 'country', 'country road', 'modern country rock']",Sunday
+10/27/2019 22:27,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",221460,"['dance pop', 'hollywood', 'movie tunes', 'post-teen pop', 'show tunes']",Sunday
+10/27/2019 23:12,Brad Paisley,Mud on the Tires,208266,"['contemporary country', 'country', 'country road']",Sunday
+10/27/2019 23:26,U2,The Miracle (Of Joey Ramone),173822,"['irish rock', 'permanent wave', 'rock']",Sunday
+10/28/2019 14:44,Limahl,Never Ending Story,212173,"['new romantic', 'new wave pop']",Monday
+10/28/2019 14:54,Neil Diamond,Cracklin' Rosie,178853,"['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",Monday
+10/28/2019 15:15,MKTO,American Dream,95748,"['dance pop', 'pop', 'pop rap', 'pop rock', 'post-teen pop']",Monday
+10/28/2019 16:42,Keith Urban,Parallel Line,253084,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",Monday
+10/28/2019 17:53,Joseph Vincent,Set You Free,205529,"['pop', 'viral pop']",Monday
+10/28/2019 18:54,Mitchel Musso,Hey,107226,['post-teen pop'],Monday
+10/29/2019 15:03,Old Dominion,Make It Sweet,187000,"['contemporary country', 'country road']",Tuesday
+10/29/2019 15:15,Junior Doctor,Uh Oh,217254,['pop emo'],Tuesday
+10/29/2019 16:15,Sidewalk Prophets,Smile,176133,"['anthem worship', 'ccm', 'christian alternative rock', 'christian indie', 'christian music', 'christian pop', 'worship']",Tuesday
+10/29/2019 16:15,Sam Smith,Stay With Me,40016,"['pop', 'uk pop']",Tuesday
+10/29/2019 16:17,Lobo,California Kid and Reemo,81843,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",Tuesday
+10/29/2019 21:30,Skillet,Feel Invincible,229933,"['alternative metal', 'christian alternative rock', 'christian music', 'christian rock']",Tuesday
+10/29/2019 21:33,Jessy Matador,Allez Ola Olé,172745,['francoton'],Tuesday
+10/29/2019 21:37,The Offspring,"You're Gonna Go Far, Kid",177826,"['alternative metal', 'permanent wave', 'punk', 'rock', 'skate punk', 'socal pop punk']",Tuesday
+10/29/2019 21:42,Fall Out Boy,The Phoenix,244960,"['emo', 'modern rock', 'pop punk']",Tuesday
+10/29/2019 21:45,Willy William,La La La,171630,['francoton'],Tuesday
+10/29/2019 21:48,blink-182,Darkside,178224,"['pop punk', 'punk', 'socal pop punk']",Tuesday
+10/29/2019 21:51,Daddy Yankee,Limbo,224693,"['latin', 'latin hip hop', 'reggaeton', 'trap latino', 'tropical']",Tuesday
+10/29/2019 21:55,Robin Schulz,Sugar (feat. Francesco Yates),219043,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",Tuesday
+10/29/2019 21:59,Sofia Reyes,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",52206,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop', 'pop dance', 'reggaeton']",Tuesday
+10/29/2019 22:15,Sweet,Ballroom Blitz,246573,"['album rock', 'blues rock', 'classic rock', 'classic uk pop', 'glam rock', 'hard rock', 'rock']",Tuesday
+10/29/2019 22:22,blink-182,She's Out Of Her Mind,162720,"['pop punk', 'punk', 'socal pop punk']",Tuesday
+10/29/2019 22:25,The All-American Rejects,Dirty Little Secret,193653,"['modern rock', 'neo mellow', 'pop punk', 'pop rock']",Tuesday
+10/29/2019 22:28,Bowling For Soup,Almost,206160,"['comic', 'pop punk', 'texas pop punk']",Tuesday
+10/29/2019 22:31,Kanye West,Black Skinhead,188013,"['chicago rap', 'rap']",Tuesday
+10/29/2019 22:36,Eminem,Without Me,290320,"['detroit hip hop', 'hip hop', 'rap']",Tuesday
+10/30/2019 5:46,The Belle Stars,Iko Iko,53414,['new wave pop'],Wednesday
+10/30/2019 5:47,First Class,Beach Baby,45102,"['rock', 'pop']",Wednesday
+10/30/2019 5:51,Hollywood Undead,Bullet,38792,"['alternative metal', 'nu metal', 'pop punk', 'rap metal', 'rap rock']",Wednesday
+10/30/2019 5:53,Hollywood Undead,Christmas In Hollywood,45702,"['alternative metal', 'nu metal', 'pop punk', 'rap metal', 'rap rock']",Wednesday
+10/30/2019 5:54,Daler Mehndi,Tunak Tunak Tun,72002,"['bhangra', 'desi pop', 'filmi', 'modern bollywood', 'sufi']",Wednesday
+10/30/2019 5:58,Prince Royce,Back It Up (feat. Jennifer Lopez & Pitbull) - Spanish Version,62029,"['bachata', 'latin', 'latin hip hop', 'latin pop', 'trap latino', 'tropical']",Wednesday
+10/30/2019 5:59,Daddy Yankee,Limbo,34999,"['latin', 'latin hip hop', 'reggaeton', 'trap latino', 'tropical']",Wednesday
+10/30/2019 6:04,Flight of the Conchords,Too Many Dicks (On The Dance Floor),30281,"['comic', 'parody']",Wednesday
+10/30/2019 6:07,Jump5,"Aloha, E Komo Mai (Theme Song from Lilo & Stitch: The Series) - Extended Version",41124,['post-teen pop'],Wednesday
+10/30/2019 6:10,O-Zone,Ma Ya Hi (Dragostea Din Tei) (feat. Lucas Prata),38124,"['bubblegum dance', 'eurodance', 'europop', 'moldovan pop']",Wednesday
+10/30/2019 6:25,Sammy Adams,Driving Me Crazy,34202,"['indie pop rap', 'pop rap']",Wednesday
+10/30/2019 6:25,Mumford & Sons,Forever,90790,"['modern folk rock', 'modern rock', 'stomp and holler', 'uk americana']",Wednesday
+10/30/2019 6:34,Keith Urban,Never Comin Down,45424,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",Wednesday
+10/30/2019 6:36,Common Kings,Take Her,46187,"['jawaiian', 'polynesian pop']",Wednesday
+10/30/2019 6:41,Zac Brown Band,Sweet Annie,51826,"['contemporary country', 'country', 'country road', 'modern country rock']",Wednesday
+10/30/2019 6:44,Zac Brown Band,Mango Tree,99071,"['contemporary country', 'country', 'country road', 'modern country rock']",Wednesday
+10/30/2019 6:45,Zac Brown Band,The Wind - Greatest Hits Version,51967,"['contemporary country', 'country', 'country road', 'modern country rock']",Wednesday
+10/30/2019 6:46,Zac Brown Band,2 Places at 1 Time,75614,"['contemporary country', 'country', 'country road', 'modern country rock']",Wednesday
+10/30/2019 6:47,Stellar Kart,Can You Feel The Love Tonight,67425,"['ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'worship']",Wednesday
+10/30/2019 6:48,Phineas and the Ferbtones,Gitchee Gitchee Goo,30216,['pop'],Wednesday
+10/30/2019 6:51,Los Lobos,One Time One Night,30086,['roots rock'],Wednesday
+10/30/2019 16:32,Los Lobos,One Time One Night,289306,['roots rock'],Wednesday
+10/30/2019 16:37,Caesars,Jerk It Out,195666,['swedish indie rock'],Wednesday
+10/30/2019 16:42,Frankie Valli & The Four Seasons,"December, 1963 (Oh What a Night!)",201093,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'lounge', 'motown', 'northern soul', 'rock-and-roll']",Wednesday
+10/30/2019 16:45,Lincoln Brewster,Made New,202988,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Wednesday
+10/30/2019 16:49,Kenny Chesney,American Kids,182960,"['contemporary country', 'country', 'country road']",Wednesday
+10/30/2019 16:53,Mark Keali'i Ho'omalu,"He Mele No Lilo - From ""Lilo & Stitch""/Soundtrack Version",148133,['movie tunes'],Wednesday
+10/30/2019 18:55,One Direction,No Control,199720,"['boy band', 'pop', 'post-teen pop', 'talent show']",Wednesday
+10/30/2019 18:56,PSY,DADDY,44963,"['k-pop', 'k-rap']",Wednesday
+10/30/2019 19:01,Zac Brown Band,Lance's Song,147321,"['contemporary country', 'country', 'country road', 'modern country rock']",Wednesday
+10/30/2019 21:56,Matthew West,Truth Be Told,219440,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Wednesday
+10/30/2019 22:00,Thomas Rhett,Notice,222853,"['contemporary country', 'country', 'country road', 'modern country rock']",Wednesday
+10/30/2019 22:02,Shakira,"Whenever, Wherever",65756,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",Wednesday
+10/30/2019 22:17,Old Dominion,My Heart Is a Bar,234853,"['contemporary country', 'country road']",Wednesday
+10/30/2019 23:31,Sidewalk Prophets,Smile,176133,"['anthem worship', 'ccm', 'christian alternative rock', 'christian indie', 'christian music', 'christian pop', 'worship']",Wednesday
+10/30/2019 23:40,Zac Brown Band,From Now On,260960,"['contemporary country', 'country', 'country road', 'modern country rock']",Wednesday
+10/31/2019 0:07,Zac Brown Band,Island Song,160825,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/31/2019 15:02,Zac Brown Band,Lance's Song,274613,"['contemporary country', 'country', 'country road', 'modern country rock']",Thursday
+10/31/2019 15:24,The Goo Goo Dolls,Come to Me,225333,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",Thursday
+10/31/2019 15:27,Rudimental,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",210772,"['dance pop', 'edm', 'house', 'liquid funk', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']",Thursday
+10/31/2019 16:07,Luke Bryan,Drink A Beer,202613,"['contemporary country', 'country', 'country road']",Thursday
+10/31/2019 16:14,Lewis Capaldi,Someone You Loved,122637,"['pop', 'uk pop']",Thursday
+10/31/2019 21:23,Pitbull,Echa Pa'lla (Manos Pa'rriba) (feat. Papayo),196440,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance', 'pop rap']",Thursday
+10/31/2019 21:27,KB,Not Today Satan,246545,"['christian hip hop', 'christian trap']",Thursday
+10/31/2019 21:41,Robin Schulz,Sugar (feat. Francesco Yates),219043,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",Thursday
+10/31/2019 21:51,Guns N' Roses,Sweet Child O' Mine,281161,"['glam metal', 'hard rock', 'rock']",Thursday
+10/31/2019 21:55,U2,Vertigo,194520,"['irish rock', 'permanent wave', 'rock']",Thursday
+10/31/2019 21:59,Eminem,Venom - Music From The Motion Picture,269554,"['detroit hip hop', 'hip hop', 'rap']",Thursday
+10/31/2019 22:02,Jónsi,Where No One Goes,164533,"['compositional ambient', 'icelandic pop', 'post-rock']",Thursday
+10/31/2019 22:09,Boys Like Girls,Five Minutes to Midnight,227360,"['neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop']",Thursday
+10/31/2019 22:16,Bowling For Soup,Almost,206160,"['comic', 'pop punk', 'texas pop punk']",Thursday
+10/31/2019 22:27,Fall Out Boy,The Phoenix,244960,"['emo', 'modern rock', 'pop punk']",Thursday
+10/31/2019 22:31,The All-American Rejects,Dirty Little Secret,193653,"['modern rock', 'neo mellow', 'pop punk', 'pop rock']",Thursday
+10/31/2019 22:35,3 Doors Down,Kryptonite,233933,"['alternative metal', 'nu metal', 'pop rock', 'post-grunge']",Thursday
+10/31/2019 22:48,Skillet,Feel Invincible,229933,"['alternative metal', 'christian alternative rock', 'christian music', 'christian rock']",Thursday
+10/31/2019 22:51,Kanye West,Black Skinhead,188013,"['chicago rap', 'rap']",Thursday
+10/31/2019 22:56,Eminem,Without Me,290320,"['detroit hip hop', 'hip hop', 'rap']",Thursday
+10/31/2019 23:03,Jessie J,Bang Bang,199320,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop', 'uk pop']",Thursday
+10/31/2019 23:04,We The Kings,"Check Yes, Juliet",44920,"['neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']",Thursday
+11/1/2019 14:59,Lobo,California Kid and Reemo,168960,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",Friday
+11/1/2019 16:57,Backstreet Boys,It's Christmas Time Again,203028,"['boy band', 'dance pop', 'europop']",Friday
+11/1/2019 18:45,Enrique Iglesias,Bailando - Spanish Version,243413,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop', 'tropical']",Friday
+11/1/2019 19:09,ABBA,Chiquitita,184776,"['europop', 'swedish pop']",Friday
+11/1/2019 20:05,ABBA,Chiquitita,128260,"['europop', 'swedish pop']",Friday
+11/1/2019 21:34,The Beach Boys,Little Saint Nick - 1991 Remix,118840,"['baroque pop', 'brill building pop', 'classic rock', 'folk rock', 'psychedelic rock', 'rock', 'sunshine pop']",Friday
+11/1/2019 21:38,Jason Derulo,Marry Me,225026,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']",Friday
+11/1/2019 21:46,Luke Combs,When It Rains It Pours,240760,['contemporary country'],Friday
+11/1/2019 21:50,Brad Paisley,Mud on the Tires,208266,"['contemporary country', 'country', 'country road']",Friday
+11/1/2019 21:50,The Word Alive,Lighthouse,30422,"['melodic metalcore', 'metalcore', 'post-screamo', 'screamo', 'trancecore']",Friday
+11/1/2019 21:56,Sister Hazel,All For You,218706,"['acoustic pop', 'neo mellow', 'pop rock']",Friday
+11/1/2019 22:26,Thomas Rhett,Marry Me,205453,"['contemporary country', 'country', 'country road', 'modern country rock']",Friday
+11/1/2019 22:29,Thomas Rhett,Remember You Young,180466,"['contemporary country', 'country', 'country road', 'modern country rock']",Friday
+11/1/2019 22:30,AronChupa,I'm an Albatraoz,48274,['swedish pop'],Friday
+11/2/2019 3:32,Zac Brown Band,Lance's Song,274613,"['contemporary country', 'country', 'country road', 'modern country rock']",Saturday
+11/2/2019 3:45,Hillsong UNITED,Oceans (Where Feet May Fail),536000,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Saturday
+11/2/2019 4:11,Matthew West,Truth Be Told,219440,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Saturday
+11/2/2019 4:14,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",168560,"['dance pop', 'hollywood', 'movie tunes', 'post-teen pop', 'show tunes']",Saturday
+11/2/2019 22:02,One Direction,Diana,184666,"['boy band', 'pop', 'post-teen pop', 'talent show']",Saturday
+11/2/2019 22:05,Zac Brown Band,The Wind - Greatest Hits Version,176840,"['contemporary country', 'country', 'country road', 'modern country rock']",Saturday
+11/2/2019 22:15,Tame Impala,The Less I Know The Better,216320,"['australian psych', 'neo-psychedelic']",Saturday
+11/2/2019 22:19,Sam Hunt,Take Your Time,143961,"['contemporary country', 'country pop']",Saturday
+11/2/2019 22:22,Neil Diamond,Cracklin' Rosie,178853,"['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",Saturday
+11/2/2019 22:22,Skillet,Rise,49319,"['alternative metal', 'christian alternative rock', 'christian music', 'christian rock']",Saturday
+11/2/2019 22:29,Old Dominion,My Heart Is a Bar,238986,"['contemporary country', 'country road']",Saturday
+11/2/2019 22:40,Train,50 Ways to Say Goodbye,54276,"['neo mellow', 'pop', 'pop rock']",Saturday
+11/2/2019 22:43,Sidewalk Prophets,Smile,176133,"['anthem worship', 'ccm', 'christian alternative rock', 'christian indie', 'christian music', 'christian pop', 'worship']",Saturday
+11/2/2019 23:07,ABBA,Mamma Mia,213164,"['europop', 'swedish pop']",Saturday
+11/2/2019 23:12,Journey,Separate Ways (Worlds Apart),323706,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",Saturday
+11/2/2019 23:19,Pitbull,Echa Pa'lla (Manos Pa'rriba) (feat. Papayo),196440,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance', 'pop rap']",Saturday
+11/2/2019 23:25,Fall Out Boy,"Sugar, We're Goin Down",229093,"['emo', 'modern rock', 'pop punk']",Saturday
+11/2/2019 23:34,Boston,Foreplay / Long Time,463116,"['album rock', 'art rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",Saturday
+11/2/2019 23:47,U2,The Miracle (Of Joey Ramone),255382,"['irish rock', 'permanent wave', 'rock']",Saturday
+11/2/2019 23:53,Sweet,Ballroom Blitz,246573,"['album rock', 'blues rock', 'classic rock', 'classic uk pop', 'glam rock', 'hard rock', 'rock']",Saturday
+11/2/2019 23:57,Eminem,Berzerk,238746,"['detroit hip hop', 'hip hop', 'rap']",Saturday
+11/3/2019 0:08,Robin Schulz,Sugar (feat. Francesco Yates),219043,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",Sunday
+11/3/2019 0:11,The Offspring,"You're Gonna Go Far, Kid",177826,"['alternative metal', 'permanent wave', 'punk', 'rock', 'skate punk', 'socal pop punk']",Sunday
+11/3/2019 0:14,Jason Derulo,"Colors - Coca-Cola® Anthem, 2018 FIFA World CupTM",187389,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']",Sunday
+11/3/2019 0:18,Macklemore & Ryan Lewis,Can't Hold Us - feat. Ray Dalton,258342,"['dance pop', 'pop', 'pop rap', 'seattle hip hop']",Sunday
+11/3/2019 0:26,The All-American Rejects,Dirty Little Secret,193653,"['modern rock', 'neo mellow', 'pop punk', 'pop rock']",Sunday
+11/3/2019 0:29,Boys Like Girls,Five Minutes to Midnight,227360,"['neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop']",Sunday
+11/3/2019 0:33,Blackjack Billy,The Booze Cruise,175560,['modern southern rock'],Sunday
+11/3/2019 0:40,Bowling For Soup,Almost,206160,"['comic', 'pop punk', 'texas pop punk']",Sunday
+11/3/2019 0:42,Juan Magán,Echa Pa Aca,74830,"['dance pop', 'electro latino', 'latin', 'latin pop', 'reggaeton', 'spanish pop', 'tropical']",Sunday
+11/3/2019 0:45,ABBA,Mamma Mia,186743,"['europop', 'swedish pop']",Sunday
+11/3/2019 22:07,ABBA,Mamma Mia,74244,"['europop', 'swedish pop']",Sunday
+11/4/2019 16:03,Zac Brown Band,Whatever It Is - Greatest Hits Version,208346,"['contemporary country', 'country', 'country road', 'modern country rock']",Monday
+11/4/2019 19:55,John Denver,"Leaving, On a Jet Plane - ""Greatest Hits"" Version",218908,"['adult standards', 'classic country pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",Monday
+11/5/2019 16:02,ABBA,The Winner Takes It All,294733,"['europop', 'swedish pop']",Tuesday
+11/5/2019 16:08,Dan + Shay,"10,000 Hours (with Justin Bieber)",167693,"['contemporary country', 'pop']",Tuesday
+11/5/2019 16:12,Elvis Presley,Burning Love - Live,177080,"['rock-and-roll', 'rockabilly']",Tuesday
+11/5/2019 16:15,Lincoln Brewster,Everlasting God,179803,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",Tuesday
+11/5/2019 17:17,Taylor Swift,I Almost Do,242573,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Tuesday
+11/5/2019 19:44,Blackjack Billy,Born to Ride,219693,['modern southern rock'],Tuesday
+11/5/2019 19:48,Fall Out Boy,The Phoenix,244960,"['emo', 'modern rock', 'pop punk']",Tuesday
+11/5/2019 19:53,AC/DC,Thunderstruck,292880,"['album rock', 'australian rock', 'hard rock', 'rock']",Tuesday
+11/5/2019 20:10,Thousand Foot Krutch,Untraveled Road,235689,"['alternative metal', 'canadian ccm', 'canadian metal', 'canadian rock', 'christian alternative rock', 'christian rock', 'nu metal', 'rap metal']",Tuesday
+11/5/2019 20:15,Foo Fighters,Learn to Fly,235293,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']",Tuesday
+11/5/2019 20:18,Fall Out Boy,Death Valley,226720,"['emo', 'modern rock', 'pop punk']",Tuesday
+11/5/2019 20:23,Santana,Into the Night (feat. Chad Kroeger),222440,"['blues rock', 'classic rock', 'mexican classic rock', 'rock']",Tuesday
+11/5/2019 20:26,JAY-Z,Ni**as In Paris,219320,"['east coast hip hop', 'hip hop', 'pop rap', 'rap']",Tuesday
+11/5/2019 20:30,Kid Ink,Ride Out,211908,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Tuesday
+11/5/2019 20:34,Fall Out Boy,"Sugar, We're Goin Down",229093,"['emo', 'modern rock', 'pop punk']",Tuesday
+11/5/2019 20:35,Shinedown,Diamond Eyes (Boom-Lay Boom-Lay Boom),68615,"['alternative metal', 'nu metal', 'post-grunge']",Tuesday
+11/5/2019 20:37,ABBA,Mamma Mia,155216,"['europop', 'swedish pop']",Tuesday
+11/5/2019 21:16,ABBA,Mamma Mia,215266,"['europop', 'swedish pop']",Tuesday
+11/5/2019 21:20,ABBA,When I Kissed The Teacher,182000,"['europop', 'swedish pop']",Tuesday
+11/5/2019 21:33,Zac Brown Band,Goodbye in Her Eyes,324266,"['contemporary country', 'country', 'country road', 'modern country rock']",Tuesday
+11/5/2019 21:37,Post Malone,Candy Paint,227533,"['dfw rap', 'melodic rap', 'rap']",Tuesday
+11/5/2019 21:41,The Goo Goo Dolls,Come to Me,225333,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",Tuesday
+11/5/2019 21:46,One Direction,No Control,199720,"['boy band', 'pop', 'post-teen pop', 'talent show']",Tuesday
+11/5/2019 22:17,Zac Brown Band,Loving You Easy,155653,"['contemporary country', 'country', 'country road', 'modern country rock']",Tuesday
+11/5/2019 22:20,Sam Hunt,Leave The Night On,192160,"['contemporary country', 'country pop']",Tuesday
+11/5/2019 22:28,Jonas Brothers,Strangers,233853,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",Tuesday
+11/5/2019 22:35,The Goo Goo Dolls,Sympathy,178146,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",Tuesday
+11/5/2019 22:50,Troy,Bet On It,198320,"['australian pop', 'dance pop', 'pop', 'pop dance', 'post-teen pop', 'viral pop']",Tuesday
+11/5/2019 22:55,Dan + Shay,My Side of the Fence,214461,"['contemporary country', 'pop']",Tuesday
+11/6/2019 17:37,Taylor Swift,Paper Rings,222400,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Wednesday
+11/6/2019 17:53,Kenny Chesney,American Kids,182960,"['contemporary country', 'country', 'country road']",Wednesday
+11/6/2019 18:50,Dexys Midnight Runners,Come On Eileen,176923,"['bow pop', 'dance rock', 'new romantic', 'new wave', 'new wave pop']",Wednesday
+11/6/2019 18:59,Taylor Swift,The Lucky One,240133,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",Wednesday
+11/6/2019 19:56,Juan Magán,Echa Pa Aca,101466,"['dance pop', 'electro latino', 'latin', 'latin pop', 'reggaeton', 'spanish pop', 'tropical']",Wednesday
+11/6/2019 21:05,One Direction,No Control,121142,"['boy band', 'pop', 'post-teen pop', 'talent show']",Wednesday
+11/6/2019 22:35,James Taylor,Carolina in My Mind,238573,"['adult standards', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",Wednesday
+11/6/2019 22:41,Lobo,Don't Expect Me to Be Your Friend,217906,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",Wednesday
+11/6/2019 22:44,Panic! At The Disco,High Hopes,190946,"['baroque pop', 'emo', 'modern rock']",Wednesday
