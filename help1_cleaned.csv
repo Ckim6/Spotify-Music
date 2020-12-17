@@ -1,0 +1,789 @@
+,endTime,artistName,trackName,Genre,Day of the Week,Genres,msPlayed
+0,3/21/2020 22:59,Santana,Into the Night (feat. Chad Kroeger),blues rock,Saturday,"['blues rock', 'classic rock', 'mexican classic rock', 'rock']",222440
+1,3/21/2020 23:37,Elvis Presley,Suspicious Minds,rock-and-roll,Saturday,"['rock-and-roll', 'rockabilly']",261280
+2,3/22/2020 0:00,Boston,Foreplay / Long Time,album rock,Sunday,"['album rock', 'art rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",467640
+3,3/22/2020 0:03,Hunter Hayes,Tattoo,contemporary country,Sunday,"['contemporary country', 'country', 'country road', 'modern country rock', 'neo mellow', 'pop', 'pop rock', 'post-teen pop']",196733
+4,3/22/2020 0:17,One Direction,Diana,boy band,Sunday,"['boy band', 'pop', 'post-teen pop', 'talent show']",184666
+5,3/22/2020 0:50,Zac Brown Band,Let It Go,contemporary country,Sunday,"['contemporary country', 'country', 'country road', 'modern country rock']",242853
+6,3/22/2020 0:54,Sam Hunt,House Party,contemporary country,Sunday,"['contemporary country', 'country pop']",190240
+7,3/22/2020 3:44,We The Kings,Kids In The Moonlight,neon pop punk,Sunday,"['neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']",151858
+8,3/22/2020 3:45,We The Kings,Kids In The Moonlight,neon pop punk,Sunday,"['neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']",51491
+9,3/22/2020 3:51,Neil Diamond,Cracklin' Rosie,adult standards,Sunday,"['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",176760
+10,3/22/2020 3:54,Dan + Shay,"10,000 Hours (with Justin Bieber)",contemporary country,Sunday,"['contemporary country', 'pop']",164666
+11,3/22/2020 3:57,Luke Combs,Even Though I'm Leaving,contemporary country,Sunday,['contemporary country'],217963
+12,3/22/2020 4:08,Dean Brody,It's Friday,canadian contemporary country,Sunday,"['canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']",190960
+13,3/22/2020 4:09,J Balvin,Mi Gente,latin,Sunday,"['latin', 'reggaeton', 'reggaeton colombiano']",31868
+14,3/22/2020 4:12,Lady A,What I’m Leaving For,contemporary country,Sunday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",197278
+15,3/22/2020 4:13,John Denver,Calypso,adult standards,Sunday,"['adult standards', 'classic country pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",73188
+16,3/22/2020 4:16,Troy,Bet On It,australian pop,Sunday,"['australian pop', 'dance pop', 'electropop', 'pop', 'pop dance', 'post-teen pop', 'viral pop']",198320
+17,3/22/2020 4:17,Robbie Williams,"Collision of Worlds - From ""Cars 2""/Soundtrack Version",dance pop,Sunday,"['dance pop', 'europop', 'pop']",37674
+18,3/22/2020 4:24,Old Dominion,One Man Band,contemporary country,Sunday,"['contemporary country', 'country road']",183633
+19,3/22/2020 4:33,Counting Crows,Big Yellow Taxi,alternative rock,Sunday,"['alternative rock', 'mellow gold', 'neo mellow', 'pop rock', 'rock']",59026
+20,3/22/2020 4:37,The Goo Goo Dolls,Come to Me,alternative rock,Sunday,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",225333
+21,3/23/2020 1:17,ABBA,Waterloo,europop,Monday,"['europop', 'swedish pop']",153531
+22,3/23/2020 1:20,Ed Sheeran,Nancy Mulligan,pop,Monday,"['pop', 'uk pop']",176144
+23,3/23/2020 1:24,Jonas Brothers,Like It's Christmas,boy band,Monday,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",200880
+24,3/23/2020 1:25,Luke Combs,One Number Away,contemporary country,Monday,['contemporary country'],64912
+25,3/23/2020 1:26,The Beach Boys,Barbara Ann,baroque pop,Monday,"['baroque pop', 'brill building pop', 'classic rock', 'folk rock', 'psychedelic rock', 'rock', 'sunshine pop']",79562
+26,3/23/2020 1:42,Zac Brown Band,The Wind,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'modern country rock']",176800
+27,3/23/2020 1:45,Neil Diamond,Cracklin' Rosie,adult standards,Monday,"['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",178853
+28,3/23/2020 1:49,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",dance pop,Monday,"['dance pop', 'hollywood', 'movie tunes', 'post-teen pop', 'show tunes']",224240
+29,3/23/2020 1:53,Lady A,What I’m Leaving For,contemporary country,Monday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",198455
+30,3/23/2020 1:54,Selena,Bidi Bidi Bom Bom,dance pop,Monday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",83456
+31,3/23/2020 1:58,Sam Hunt,Sinning With You,contemporary country,Monday,"['contemporary country', 'country pop']",50002
+32,3/23/2020 2:01,Luke Combs,Beautiful Crazy,contemporary country,Monday,['contemporary country'],193200
+33,3/23/2020 2:04,Phil Collins,Strangers Like Me,mellow gold,Monday,"['mellow gold', 'rock drums', 'soft rock']",180520
+34,3/23/2020 2:05,Ryan Higa,Millennial Love (feat. Kina Grannis),contemporary country,Monday,['contemporary country'],56698
+35,3/23/2020 2:19,Gloria Gaynor,I Will Survive - 1981 Re-recording,disco,Monday,"['disco', 'europop']",257340
+36,3/23/2020 2:34,Trisha Yearwood,She's In Love With The Boy - Single Version,contemporary country,Monday,"['contemporary country', 'country', 'country dawn', 'country road']",62760
+37,3/23/2020 2:35,Hunter Hayes,One Shot,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'modern country rock', 'neo mellow', 'pop', 'pop rock', 'post-teen pop']",31230
+38,3/23/2020 2:43,Avril Lavigne,Here's to Never Growing Up,canadian pop,Monday,"['canadian pop', 'candy pop', 'dance pop', 'pop', 'post-teen pop']",38600
+39,3/23/2020 2:44,Clark Richard,Red Robin,pop,Monday,['pop'],46060
+40,3/23/2020 2:53,MKTO,Party With My Friends,dance pop,Monday,"['dance pop', 'electropop', 'pop', 'pop rap', 'pop rock', 'post-teen pop']",87190
+41,3/23/2020 2:55,Sam Hunt,Hard To Forget - Radio Edit,contemporary country,Monday,"['contemporary country', 'country pop']",95040
+42,3/23/2020 2:58,Chris Young,Drowning - Piano Version,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'modern country rock']",45480
+43,3/23/2020 3:04,Rascal Flatts,I Won't Let Go,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'pop rock']",220530
+44,3/23/2020 3:10,Rascal Flatts,Rewind,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'pop rock']",61100
+45,3/23/2020 3:15,Chris Young,Raised on Country,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'modern country rock']",104630
+46,3/23/2020 3:23,Chris Young,Hangin' On,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'modern country rock']",109800
+47,3/23/2020 3:28,Chris Young,Drowning - Piano Version,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'modern country rock']",97320
+48,3/23/2020 3:29,The Killers,Caution - Radio Edit,modern rock,Monday,"['modern rock', 'permanent wave', 'rock']",67460
+49,3/23/2020 3:33,The Worship Initiative,Blessed Assurance,anthem worship,Monday,"['anthem worship', 'ccm', 'indiecoustica', 'roots worship', 'world worship']",98790
+50,3/23/2020 3:34,Jelly Roll,Creature,country rap,Monday,"['country rap', 'nashville hip hop', 'tennessee hip hop']",49650
+51,3/23/2020 3:34,AB,Bad Decisions,europop,Monday,"['europop', 'swedish pop']",32790
+52,3/23/2020 5:40,Selena,Amor Prohibido,dance pop,Monday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",104580
+53,3/23/2020 17:09,Rascal Flatts,Fast Cars And Freedom,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'pop rock']",262186
+54,3/23/2020 17:13,Luke Bryan,One Margarita,contemporary country,Monday,"['contemporary country', 'country', 'country road']",193426
+55,3/23/2020 17:16,Selena,Bidi Bidi Bom Bom,dance pop,Monday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",187524
+56,3/23/2020 18:06,Buddy Jewell,Sweet Southern Comfort,country,Monday,"['country', 'country road']",211951
+57,3/23/2020 18:20,Brad Paisley,Last Time for Everything,contemporary country,Monday,"['contemporary country', 'country', 'country road']",207323
+58,3/24/2020 1:28,Selena,El Chico Del Apartamento 512,dance pop,Tuesday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",204240
+59,3/24/2020 1:30,Selena,Dreaming Of You,dance pop,Tuesday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",103240
+60,3/24/2020 1:37,Selena,Si Una Vez,dance pop,Tuesday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",88090
+61,3/24/2020 1:39,Selena,I Could Fall In Love,dance pop,Tuesday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",89010
+62,3/24/2020 2:06,Cher,Super Trouper,dance pop,Tuesday,"['dance pop', 'hollywood', 'new wave pop', 'pop']",231480
+63,3/24/2020 2:25,The Chicks,Wide Open Spaces,contemporary country,Tuesday,"['contemporary country', 'country', 'country dawn']",223832
+64,3/24/2020 2:42,BgA,Who's It Gonna Be,latin,Tuesday,"['latin', 'reggaeton', 'trap latino']",110120
+65,3/24/2020 2:49,Luke Bryan,One Margarita,contemporary country,Tuesday,"['contemporary country', 'country', 'country road']",193426
+66,3/24/2020 2:51,Chris Young,I'm Comin' Over,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'modern country rock']",115575
+67,3/24/2020 3:00,Neil Diamond,Cracklin' Rosie,adult standards,Tuesday,"['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",178853
+68,3/24/2020 3:02,HIXTAPE,Nothin’ Out Here (HARDY feat. Thomas Rhett),contemporary country,Tuesday,['contemporary country'],104892
+69,3/24/2020 3:06,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",dance pop,Tuesday,"['dance pop', 'hollywood', 'movie tunes', 'post-teen pop', 'show tunes']",218746
+70,3/24/2020 3:09,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",dance pop,Tuesday,"['dance pop', 'hollywood', 'movie tunes', 'post-teen pop', 'show tunes']",208467
+71,3/24/2020 3:11,Fall Out Boy,"Sugar, We're Goin Down",emo,Tuesday,"['emo', 'modern rock', 'pop punk']",78247
+72,3/24/2020 3:14,Old Dominion,My Heart Is a Bar,contemporary country,Tuesday,"['contemporary country', 'country road']",238986
+73,3/24/2020 3:20,Eric Church,Give Me Back My Hometown,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'modern country rock']",98467
+74,3/24/2020 3:32,Lady A,American Honey,contemporary country,Tuesday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",107273
+75,3/24/2020 17:45,Luke Combs,Beautiful Crazy,contemporary country,Tuesday,['contemporary country'],63378
+76,3/24/2020 18:11,Luke Combs,Beautiful Crazy,contemporary country,Tuesday,['contemporary country'],175950
+77,3/24/2020 21:26,Selena,Bidi Bidi Bom Bom,dance pop,Tuesday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",186580
+78,3/24/2020 21:43,Veronica Vega,Wave (feat. Lil Wayne & Jeremih),rap latina,Tuesday,"['rap latina', 'trap queen']",212466
+79,3/24/2020 21:46,Fall Out Boy,Saturday Night's Alright (For Fighting),emo,Tuesday,"['emo', 'modern rock', 'pop punk']",224306
+80,3/24/2020 21:49,Relient K,Sadie Hawkins Dance,canadian ccm,Tuesday,"['canadian ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'indiecoustica', 'pop punk', 'pop rock']",177600
+81,3/24/2020 21:53,Linkin Park,Bleed It Out,alternative metal,Tuesday,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",166373
+82,3/24/2020 22:00,Hollywood Undead,Another Way Out,alternative metal,Tuesday,"['alternative metal', 'modern rock', 'nu metal', 'rap metal', 'rap rock']",167666
+83,3/24/2020 22:05,Skylar Grey,Back From The Dead,electropop,Tuesday,"['electropop', 'piano rock', 'viral pop']",70705
+84,3/25/2020 2:51,Chris Tomlin,Holy Is The Lord,ccm,Wednesday,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",252533
+85,3/25/2020 3:02,Sister Hazel,Mandolin Moon,acoustic pop,Wednesday,"['acoustic pop', 'neo mellow', 'pop rock']",214346
+86,3/25/2020 4:32,Ed Sheeran,Happier,pop,Wednesday,"['pop', 'uk pop']",207520
+87,3/25/2020 23:08,Sam Hunt,Hard To Forget,contemporary country,Wednesday,"['contemporary country', 'country pop']",204760
+88,3/25/2020 23:14,Hot Country Knights,Pick Her Up - Radio Edit,contemporary country,Wednesday,['contemporary country'],168477
+89,3/25/2020 23:18,Post Malone,Candy Paint,dfw rap,Wednesday,"['dfw rap', 'melodic rap', 'rap']",224932
+90,3/25/2020 23:25,The White Tie Affair,Candle (Sick And Tired),alternative pop rock,Wednesday,"['alternative pop rock', 'electropowerpop', 'neon pop punk', 'pixie', 'pop emo']",226100
+91,3/26/2020 1:49,Maroon 5,Lucky Strike,pop,Thursday,"['pop', 'pop rock']",145410
+92,3/26/2020 1:54,Alan Walker,All Falls Down (feat. Juliander),electro house,Thursday,['electro house'],61530
+93,3/26/2020 3:44,P!nk,A Million Dreams,dance pop,Thursday,"['dance pop', 'pop', 'post-teen pop']",273640
+94,3/26/2020 3:59,Luke Combs,Even Though I'm Leaving,contemporary country,Thursday,['contemporary country'],223960
+95,3/26/2020 4:02,Frankie Valli & The Four Seasons,"December, 1963 (Oh What a Night!)",adult standards,Thursday,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'lounge', 'motown', 'northern soul', 'rock-and-roll']",201093
+96,3/26/2020 4:28,Tim McGraw,Thought About You,contemporary country,Thursday,"['contemporary country', 'country', 'country road']",225694
+97,3/26/2020 5:12,We The Kings,Kids In The Moonlight,neon pop punk,Thursday,"['neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']",201813
+98,3/26/2020 5:15,Rascal Flatts,I Like The Sound Of That,contemporary country,Thursday,"['contemporary country', 'country', 'country road', 'pop rock']",209280
+99,3/26/2020 5:29,Jonas Brothers,Like It's Christmas,boy band,Thursday,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",200880
+100,3/26/2020 5:43,Johnny Cash,Ring of Fire,arkansas country,Thursday,"['arkansas country', 'outlaw country']",48090
+101,3/26/2020 5:52,KANA-BOON,Silhouette,anime,Thursday,"['anime', 'j-pop', 'j-poprock', 'j-rock']",214100
+102,3/26/2020 6:32,Sam Hunt,Hard To Forget,contemporary country,Thursday,"['contemporary country', 'country pop']",115060
+103,3/26/2020 22:49,Rascal Flatts,I Won't Let Go,contemporary country,Thursday,"['contemporary country', 'country', 'country road', 'pop rock']",210720
+104,3/26/2020 23:10,Dean Brody,It's Friday,canadian contemporary country,Thursday,"['canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']",188990
+105,3/26/2020 23:16,Merle Haggard,Mama Tried,bakersfield sound,Thursday,"['bakersfield sound', 'country', 'country rock', 'nashville sound', 'outlaw country']",130330
+106,3/26/2020 23:19,The Chicks,Gaslighter,contemporary country,Thursday,"['contemporary country', 'country', 'country dawn']",203466
+107,3/26/2020 23:26,The Chainsmokers,This Feeling,dance pop,Thursday,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",197946
+108,3/27/2020 4:40,Keith Urban,Days Go By,australian country,Friday,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",105490
+109,3/27/2020 4:44,KANA-BOON,Silhouette,anime,Friday,"['anime', 'j-pop', 'j-poprock', 'j-rock']",240133
+110,3/27/2020 4:48,Rascal Flatts,I Won't Let Go,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'pop rock']",226060
+111,3/27/2020 4:54,Dean Brody,It's Friday,canadian contemporary country,Friday,"['canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']",190960
+112,3/27/2020 5:12,Luke Combs,Even Though I'm Leaving,contemporary country,Friday,['contemporary country'],225253
+113,3/27/2020 5:16,Kenny Chesney,All the Pretty Girls,contemporary country,Friday,"['contemporary country', 'country', 'country road']",212893
+114,3/27/2020 5:19,Eric Church,Record Year,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'modern country rock']",179346
+115,3/27/2020 5:31,Sam Hunt,Hard To Forget,contemporary country,Friday,"['contemporary country', 'country pop']",204760
+116,3/27/2020 5:59,X Ambassadors,BOOM,modern alternative rock,Friday,"['modern alternative rock', 'modern rock', 'pop', 'pop rock', 'rock', 'stomp pop']",164586
+117,3/27/2020 19:32,Rascal Flatts,I Won't Let Go,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'pop rock']",227760
+118,3/27/2020 19:42,Chris Young,I'm Comin' Over,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'modern country rock']",197280
+119,3/27/2020 19:57,Thomas Rhett,Sixteen,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'modern country rock']",178333
+120,3/27/2020 20:08,MKTO,Monaco,dance pop,Friday,"['dance pop', 'electropop', 'pop', 'pop rap', 'pop rock', 'post-teen pop']",227226
+121,3/28/2020 5:29,Cher,Super Trouper,dance pop,Saturday,"['dance pop', 'hollywood', 'new wave pop', 'pop']",93050
+122,3/28/2020 5:53,KANA-BOON,Silhouette,anime,Saturday,"['anime', 'j-pop', 'j-poprock', 'j-rock']",235880
+123,3/28/2020 7:15,Orianthi,According To You,candy pop,Saturday,['candy pop'],58610
+124,3/28/2020 21:56,Rise Against,The Violence,chicago hardcore,Saturday,"['chicago hardcore', 'chicago punk', 'hardcore punk', 'punk']",228720
+125,3/28/2020 22:01,Eminem,Without Me,detroit hip hop,Saturday,"['detroit hip hop', 'hip hop', 'rap']",290320
+126,3/28/2020 22:07,Pitbull,Echa Pa'lla (Manos Pa'rriba) (feat. Papayo),dance pop,Saturday,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance', 'pop rap']",196440
+127,3/28/2020 22:11,Robin Schulz,Sugar (feat. Francesco Yates),dance pop,Saturday,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",57807
+128,3/28/2020 22:17,We The Kings,"Check Yes, Juliet",neon pop punk,Saturday,"['neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']",108656
+129,3/29/2020 20:51,Jonas Brothers,Fly With Me,boy band,Sunday,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",234146
+130,3/29/2020 21:06,Los Lobos,One Time One Night,roots rock,Sunday,['roots rock'],278390
+131,3/29/2020 21:15,Billy Joel,We Didn't Start the Fire,album rock,Sunday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",287733
+132,3/29/2020 21:18,Fall Out Boy,Dear Future Self (Hands Up),emo,Sunday,"['emo', 'modern rock', 'pop punk']",170040
+133,3/29/2020 21:35,Junior Doctor,Uh Oh,pop emo,Sunday,['pop emo'],217254
+134,3/29/2020 21:39,Dan + Shay,My Side of the Fence,contemporary country,Sunday,"['contemporary country', 'pop']",219826
+135,3/29/2020 22:00,Luke Combs,When It Rains It Pours,contemporary country,Sunday,['contemporary country'],240760
+136,3/29/2020 22:04,Florida Georgia Line,H.O.L.Y.,contemporary country,Sunday,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",194186
+137,3/29/2020 22:27,Riley Green,I Wish Grandpas Never Died,contemporary country,Sunday,"['contemporary country', 'country road']",250413
+138,3/29/2020 22:37,Rascal Flatts,Dance,contemporary country,Sunday,"['contemporary country', 'country', 'country road', 'pop rock']",201066
+139,3/29/2020 22:46,Rascal Flatts,My Wish,contemporary country,Sunday,"['contemporary country', 'country', 'country road', 'pop rock']",248280
+140,3/30/2020 2:38,Fall Out Boy,"Sugar, We're Goin Down",emo,Monday,"['emo', 'modern rock', 'pop punk']",125040
+141,3/30/2020 2:41,Ed Sheeran,Nancy Mulligan,pop,Monday,"['pop', 'uk pop']",179786
+142,3/30/2020 2:56,The Weeknd,Blinding Lights,canadian contemporary r&b,Monday,"['canadian contemporary r&b', 'canadian pop', 'pop']",198920
+143,3/30/2020 6:29,Elvis Presley,Stuck on You,rock-and-roll,Monday,"['rock-and-roll', 'rockabilly']",132690
+144,3/30/2020 18:14,John Denver,"Leaving, On a Jet Plane - ""Greatest Hits"" Version",adult standards,Monday,"['adult standards', 'classic country pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",245533
+145,3/30/2020 18:21,Rascal Flatts,What Hurts The Most,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'pop rock']",214106
+146,3/30/2020 18:24,Pentatonix,Sing,a cappella,Monday,['a cappella'],177240
+147,3/30/2020 18:28,Selena,Bidi Bidi Bom Bom,dance pop,Monday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",187524
+148,3/30/2020 18:32,Ozomatli,After Party,latin alternative,Monday,"['latin alternative', 'latinx alternative']",221325
+149,3/30/2020 18:35,The Chicks,Gaslighter,contemporary country,Monday,"['contemporary country', 'country', 'country dawn']",200310
+150,3/30/2020 20:31,Rascal Flatts,Fast Cars And Freedom,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'pop rock']",248460
+151,3/30/2020 23:52,Luke Bryan,One Margarita,contemporary country,Monday,"['contemporary country', 'country', 'country road']",147800
+152,3/30/2020 23:53,Christina Perri,A Thousand Years,dance pop,Monday,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",82193
+153,3/31/2020 3:03,Selena,Bidi Bidi Bom Bom,dance pop,Tuesday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",187524
+154,3/31/2020 3:06,Chris Young,Town Ain't Big Enough,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'modern country rock']",166710
+155,3/31/2020 3:10,Sam Hunt,Hard To Forget,contemporary country,Tuesday,"['contemporary country', 'country pop']",202340
+156,3/31/2020 3:38,Taylor Swift,Paper Rings,dance pop,Tuesday,"['dance pop', 'pop']",205860
+157,3/31/2020 3:52,KANA-BOON,Silhouette,anime,Tuesday,"['anime', 'j-pop', 'j-poprock', 'j-rock']",237480
+158,3/31/2020 20:47,We The Kings,Kids In The Moonlight,neon pop punk,Tuesday,"['neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']",201813
+159,3/31/2020 22:45,Counting Crows,Big Yellow Taxi,alternative rock,Tuesday,"['alternative rock', 'mellow gold', 'neo mellow', 'pop rock', 'rock']",61766
+160,3/31/2020 22:59,Rascal Flatts,I Won't Let Go,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'pop rock']",217933
+161,3/31/2020 23:02,Chris Young,Town Ain't Big Enough,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'modern country rock']",171800
+162,3/31/2020 23:13,Sam Hunt,Hard To Forget,contemporary country,Tuesday,"['contemporary country', 'country pop']",204760
+163,3/31/2020 23:16,X Ambassadors,BOOM,modern alternative rock,Tuesday,"['modern alternative rock', 'modern rock', 'pop', 'pop rock', 'rock', 'stomp pop']",164586
+164,3/31/2020 23:26,Maroon 5,Lucky Strike,pop,Tuesday,"['pop', 'pop rock']",185280
+165,3/31/2020 23:39,Stellar Kart,Kiss the Girl,ccm,Tuesday,"['ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'worship']",201626
+166,3/31/2020 23:43,Passion,"Lord, I Need You - Live",anthem worship,Tuesday,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",274814
+167,3/31/2020 23:46,Dan + Shay,Alone Together,contemporary country,Tuesday,"['contemporary country', 'pop']",171440
+168,3/31/2020 23:49,Anthem Lights,Nothing Like Christmas,ccm,Tuesday,"['ccm', 'christian alternative rock', 'christian music', 'viral pop']",183287
+169,3/31/2020 23:55,Brad Paisley,Southern Comfort Zone,contemporary country,Tuesday,"['contemporary country', 'country', 'country road']",316986
+170,3/31/2020 23:59,MercyMe,Greater,anthem worship,Tuesday,"['anthem worship', 'ccm', 'christian alternative rock', 'christian indie', 'christian music', 'worship']",247040
+171,4/1/2020 0:01,Haley & Michaels,Giving It All (To You),contemporary country,Wednesday,"['contemporary country', 'country pop']",85079
+172,4/1/2020 0:03,Haley & Michaels,Giving It All (To You),contemporary country,Wednesday,"['contemporary country', 'country pop']",139523
+173,4/1/2020 0:06,Selena,Bidi Bidi Bom Bom,dance pop,Wednesday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",138663
+174,4/1/2020 0:10,Rascal Flatts,I Won't Let Go,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'pop rock']",55841
+175,4/1/2020 19:36,Thomas Rhett,Be A Light,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'modern country rock']",168320
+176,4/1/2020 19:39,Emotional Oranges,Sundays,alternative r&b,Wednesday,['alternative r&b'],185170
+177,4/1/2020 19:43,KANA-BOON,Silhouette,anime,Wednesday,"['anime', 'j-pop', 'j-poprock', 'j-rock']",240133
+178,4/1/2020 19:47,Chris Young,Town Ain't Big Enough,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'modern country rock']",167400
+179,4/1/2020 19:53,Selena,Bidi Bidi Bom Bom,dance pop,Wednesday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",182530
+180,4/1/2020 19:57,Luke Bryan,One Margarita,contemporary country,Wednesday,"['contemporary country', 'country', 'country road']",192030
+181,4/1/2020 20:04,The Weeknd,Blinding Lights,canadian contemporary r&b,Wednesday,"['canadian contemporary r&b', 'canadian pop', 'pop']",197440
+182,4/1/2020 21:08,MAN WITH A MISSION,Seven Deadly Sins,anime,Wednesday,"['anime', 'anime rock', 'j-pop', 'j-poprock', 'j-rock', 'otacore']",216190
+183,4/1/2020 21:41,Dean Brody,It's Friday,canadian contemporary country,Wednesday,"['canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']",183230
+184,4/1/2020 21:47,Vertical Worship,This We Know - Live,anthem worship,Wednesday,"['anthem worship', 'ccm', 'christian music', 'world worship', 'worship']",41352
+185,4/1/2020 21:47,Hot Country Knights,Pick Her Up - Radio Edit,contemporary country,Wednesday,['contemporary country'],168477
+186,4/1/2020 22:53,Emotional Oranges,West Coast Love,alternative r&b,Wednesday,['alternative r&b'],125200
+187,4/1/2020 23:08,Rascal Flatts,Fast Cars And Freedom,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'pop rock']",251528
+188,4/1/2020 23:16,Rascal Flatts,I Won't Let Go,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'pop rock']",215775
+189,4/1/2020 23:25,Lady A,What I’m Leaving For,contemporary country,Wednesday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",203601
+190,4/1/2020 23:28,Keith Urban,You'll Think Of Me - Single Version,australian country,Wednesday,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",158230
+191,4/1/2020 23:31,Dean Brody,It's Friday,canadian contemporary country,Wednesday,"['canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']",187834
+192,4/1/2020 23:35,Ed Sheeran,Nancy Mulligan,pop,Wednesday,"['pop', 'uk pop']",177101
+193,4/1/2020 23:38,Neil Diamond,Cracklin' Rosie,adult standards,Wednesday,"['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",175902
+194,4/1/2020 23:42,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",dance pop,Wednesday,"['dance pop', 'hollywood', 'movie tunes', 'post-teen pop', 'show tunes']",241903
+195,4/1/2020 23:50,Luke Combs,Beautiful Crazy,contemporary country,Wednesday,['contemporary country'],67681
+196,4/2/2020 3:00,Emotional Oranges,Sundays,alternative r&b,Thursday,['alternative r&b'],189093
+197,4/2/2020 3:03,Emotional Oranges,Motion,alternative r&b,Thursday,['alternative r&b'],68660
+198,4/2/2020 3:04,Emotional Oranges,Personal,alternative r&b,Thursday,['alternative r&b'],71980
+199,4/2/2020 3:07,Emotional Oranges,Corners Of My Mind,alternative r&b,Thursday,['alternative r&b'],204500
+200,4/2/2020 3:08,Emotional Oranges,Built That Way,alternative r&b,Thursday,['alternative r&b'],31540
+201,4/2/2020 3:10,Emotional Oranges,Hold You Back,alternative r&b,Thursday,['alternative r&b'],134990
+202,4/2/2020 3:11,Emotional Oranges,Don't Be Lazy,alternative r&b,Thursday,['alternative r&b'],62710
+203,4/2/2020 3:17,Blake Shelton,Nobody But You (Duet with Gwen Stefani) - Acoustic,contemporary country,Thursday,"['contemporary country', 'country', 'country road', 'oklahoma country']",198413
+204,4/2/2020 3:25,Lady A,What I’m Leaving For,contemporary country,Thursday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",203601
+205,4/2/2020 3:31,Luke Combs,Beautiful Crazy,contemporary country,Thursday,['contemporary country'],125730
+206,4/3/2020 2:14,Chris Young,Drowning - Piano Version,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'modern country rock']",182357
+207,4/3/2020 2:21,Chris Young,Town Ain't Big Enough,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'modern country rock']",171800
+208,4/3/2020 2:31,Lady A,What I’m Leaving For,contemporary country,Friday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",203601
+209,4/3/2020 2:38,Dan + Shay,My Side of the Fence,contemporary country,Friday,"['contemporary country', 'pop']",219826
+210,4/3/2020 2:45,Arctic Monkeys,Fluorescent Adolescent,garage rock,Friday,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",173493
+211,4/3/2020 2:48,Sister Hazel,All For You,acoustic pop,Friday,"['acoustic pop', 'neo mellow', 'pop rock']",218706
+212,4/3/2020 2:52,The Vamps,Somebody To You,boy band,Friday,"['boy band', 'dance pop', 'pop', 'post-teen pop']",182826
+213,4/3/2020 2:58,Taylor Swift,Holy Ground,dance pop,Friday,"['dance pop', 'pop']",201853
+214,4/3/2020 15:57,Emotional Oranges,Sundays,alternative r&b,Friday,['alternative r&b'],189093
+215,4/3/2020 16:00,Carly Pearce,I Hope You’re Happy Now,contemporary country,Friday,"['contemporary country', 'country pop']",198688
+216,4/3/2020 16:04,Emotional Oranges,West Coast Love,alternative r&b,Friday,['alternative r&b'],215386
+217,4/3/2020 17:05,Chris Young,Town Ain't Big Enough,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'modern country rock']",171800
+218,4/3/2020 17:06,Becky G,Shower,dance pop,Friday,"['dance pop', 'latin', 'latin pop', 'latin viral pop', 'pop', 'post-teen pop', 'rap latina', 'reggaeton', 'trap latino']",49870
+219,4/3/2020 17:14,Riley Green,I Wish Grandpas Never Died,contemporary country,Friday,"['contemporary country', 'country road']",250413
+220,4/3/2020 17:22,Brett Young,In Case You Didn't Know,contemporary country,Friday,['contemporary country'],192516
+221,4/3/2020 20:07,MAN WITH A MISSION,Seven Deadly Sins,anime,Friday,"['anime', 'anime rock', 'j-pop', 'j-poprock', 'j-rock', 'otacore']",195590
+222,4/3/2020 21:03,KANA-BOON,Silhouette,anime,Friday,"['anime', 'j-pop', 'j-poprock', 'j-rock']",207300
+223,4/3/2020 21:06,Chris Young,Drowning - Piano Version,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'modern country rock']",126130
+224,4/3/2020 21:10,Carly Pearce,I Hope You’re Happy Now,contemporary country,Friday,"['contemporary country', 'country pop']",198688
+225,4/3/2020 21:21,Blake Shelton,Nobody But You (Duet with Gwen Stefani) - Acoustic,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'oklahoma country']",198413
+226,4/3/2020 21:32,Cash Cash,I Found You,big room,Friday,"['big room', 'dance pop', 'edm', 'electro house', 'electropop', 'electropowerpop', 'indie poptimism', 'pop', 'pop dance', 'pop edm', 'tropical house']",167307
+227,4/3/2020 21:47,Luke Combs,Beautiful Crazy,contemporary country,Friday,['contemporary country'],190690
+228,4/3/2020 22:11,Jonas Brothers,Like It's Christmas,boy band,Friday,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",154550
+229,4/3/2020 22:17,Thomas Rhett,Be A Light,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'modern country rock']",173960
+230,4/3/2020 22:20,Mitchel Musso,Hey,post-teen pop,Friday,['post-teen pop'],181226
+231,4/4/2020 18:36,Emotional Oranges,Sundays,alternative r&b,Saturday,['alternative r&b'],187050
+232,4/4/2020 18:46,Mark Keali'i Ho'omalu,"He Mele No Lilo - From ""Lilo & Stitch""/Soundtrack Version",movie tunes,Saturday,['movie tunes'],146730
+233,4/4/2020 18:52,Emotional Oranges,Sundays,alternative r&b,Saturday,['alternative r&b'],189093
+234,4/4/2020 19:55,KANA-BOON,Silhouette,anime,Saturday,"['anime', 'j-pop', 'j-poprock', 'j-rock']",235840
+235,4/4/2020 20:02,Rascal Flatts,I Won't Let Go,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'pop rock']",225310
+236,4/4/2020 20:04,Chris Young,Town Ain't Big Enough,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'modern country rock']",171800
+237,4/4/2020 20:11,Lady A,What I’m Leaving For,contemporary country,Saturday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",203601
+238,4/4/2020 20:15,Dean Brody,It's Friday,canadian contemporary country,Saturday,"['canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']",185260
+239,4/4/2020 20:22,Luke Combs,Even Though I'm Leaving,contemporary country,Saturday,['contemporary country'],212010
+240,4/4/2020 20:28,Sam Hunt,Hard To Forget,contemporary country,Saturday,"['contemporary country', 'country pop']",204760
+241,4/4/2020 20:32,Bon Jovi,Who Says You Can't Go Home,glam metal,Saturday,"['glam metal', 'rock']",223980
+242,4/4/2020 21:54,Flame,Start Over (feat. NF),christian hip hop,Saturday,"['christian hip hop', 'christian trap']",37182
+243,4/4/2020 21:57,Luke Combs,Even Though I'm Leaving,contemporary country,Saturday,['contemporary country'],218123
+244,4/4/2020 22:08,Guy Sebastian,Like It Like That,australian pop,Saturday,"['australian pop', 'australian talent show']",241973
+245,4/4/2020 22:15,Ed Sheeran,Barcelona,pop,Saturday,"['pop', 'uk pop']",191146
+246,4/4/2020 22:37,Zac Brown Band,As She's Walking Away (feat. Alan Jackson),contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'modern country rock']",223826
+247,4/4/2020 22:46,Taylor Swift,You Belong With Me,dance pop,Saturday,"['dance pop', 'pop']",232120
+248,4/4/2020 23:03,Lorrie Morgan,He Drinks Tequila,country,Saturday,"['country', 'country dawn', 'country rock']",189040
+249,4/4/2020 23:09,Rex Orange County,Loving Is Easy,bedroom pop,Saturday,"['bedroom pop', 'pop']",155720
+250,4/4/2020 23:13,AKMU,MY DARLING,k-pop,Saturday,"['k-pop', 'korean pop']",225282
+251,4/4/2020 23:17,Old Dominion,Nowhere Fast,contemporary country,Saturday,"['contemporary country', 'country road']",188960
+252,4/4/2020 23:26,Dean Brody,It's Friday,canadian contemporary country,Saturday,"['canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']",81229
+253,4/4/2020 23:29,Rascal Flatts,I Won't Let Go,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'pop rock']",227760
+254,4/5/2020 1:50,Taylor Swift,Paper Rings,dance pop,Sunday,"['dance pop', 'pop']",82881
+255,4/5/2020 1:54,Old Dominion,My Heart Is a Bar,contemporary country,Sunday,"['contemporary country', 'country road']",236287
+256,4/5/2020 1:57,Dan + Shay,"10,000 Hours (with Justin Bieber)",contemporary country,Sunday,"['contemporary country', 'pop']",161454
+257,4/5/2020 2:17,Carly Pearce,I Hope You’re Happy Now,contemporary country,Sunday,"['contemporary country', 'country pop']",184976
+258,4/5/2020 2:20,Chris Young,Town Ain't Big Enough,contemporary country,Sunday,"['contemporary country', 'country', 'country road', 'modern country rock']",171800
+259,4/5/2020 2:23,Selena,Bidi Bidi Bom Bom,dance pop,Sunday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",178307
+260,4/5/2020 2:27,Rascal Flatts,I Won't Let Go,contemporary country,Sunday,"['contemporary country', 'country', 'country road', 'pop rock']",227760
+261,4/5/2020 2:33,Luke Combs,Beautiful Crazy,contemporary country,Sunday,['contemporary country'],180102
+262,4/5/2020 20:36,Carly Pearce,I Hope You’re Happy Now,contemporary country,Sunday,"['contemporary country', 'country pop']",198688
+263,4/5/2020 20:40,Jordan Davis,Take It From Me,contemporary country,Sunday,['contemporary country'],44340
+264,4/5/2020 20:41,Brooke White,Calico,idol,Sunday,['idol'],43570
+265,4/5/2020 20:44,The Click Five,Just the Girl,boy band,Sunday,"['boy band', 'neo mellow', 'neon pop punk', 'pixie', 'pop punk', 'pop rock']",208900
+266,4/5/2020 20:45,Brendan James,Yellow Lines,acoustic pop,Sunday,"['acoustic pop', 'indiecoustica', 'neo mellow']",42860
+267,4/5/2020 20:46,Parachute,Without You,acoustic pop,Sunday,"['acoustic pop', 'charlottesville indie', 'indiecoustica', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",59720
+268,4/5/2020 20:47,Francesca Battistelli,Free to Be Me,anthem worship,Sunday,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'worship']",85130
+269,4/5/2020 20:56,Carrie Underwood,Southbound,contemporary country,Sunday,"['contemporary country', 'country', 'country dawn', 'country road', 'dance pop', 'oklahoma country', 'pop', 'post-teen pop']",202853
+270,4/5/2020 20:58,Christian Lopez,Don't Wanna Say Goodnight,folk-pop,Sunday,['folk-pop'],84250
+271,4/5/2020 21:05,Capital Lights,Let Your Hair Down,christian alternative rock,Sunday,"['christian alternative rock', 'christian punk', 'christian rock']",253510
+272,4/5/2020 21:08,Dan Seals,Bop,classic country pop,Sunday,"['classic country pop', 'country', 'country rock']",177390
+273,4/5/2020 21:09,Judah & the Lion,Passion Fashion feat. Jon Bellion,banjo,Sunday,"['banjo', 'folk-pop', 'indie poptimism', 'indiecoustica', 'modern alternative rock', 'modern rock', 'pop rock', 'stomp and holler']",46700
+274,4/5/2020 21:11,The Bundys,King,folk,Sunday,['folk'],149720
+275,4/5/2020 21:17,Tyler Russell,Now or Never,pop,Sunday,['pop'],48230
+276,4/5/2020 21:18,Josh Kelley,Amazing,acoustic pop,Sunday,"['acoustic pop', 'neo mellow']",58180
+277,4/5/2020 21:20,Tenille Townes,Somebody's Daughter,alberta country,Sunday,"['alberta country', 'contemporary country', 'country pop']",41230
+278,4/5/2020 21:21,Little Big Town,Boondocks,contemporary country,Sunday,"['contemporary country', 'country', 'country dawn', 'country road', 'modern country rock']",59560
+279,4/5/2020 21:24,Sam Hunt,2016,contemporary country,Sunday,"['contemporary country', 'country pop']",124640
+280,4/5/2020 21:25,Ailee,Like Yesterday,k-pop,Sunday,"['k-pop', 'korean pop']",44690
+281,4/5/2020 21:25,The Worship Initiative,Behold The Lamb,anthem worship,Sunday,"['anthem worship', 'ccm', 'indiecoustica', 'roots worship', 'world worship']",34020
+282,4/5/2020 21:26,Green Day,Oh Love - Otis Big Guitar Mix,permanent wave,Sunday,"['permanent wave', 'pop punk', 'punk']",45150
+283,4/5/2020 22:28,Emotional Oranges,Sundays,alternative r&b,Sunday,['alternative r&b'],189093
+284,4/5/2020 22:31,Sam Hunt,Hard To Forget,contemporary country,Sunday,"['contemporary country', 'country pop']",204760
+285,4/5/2020 22:44,The Weeknd,Blinding Lights,canadian contemporary r&b,Sunday,"['canadian contemporary r&b', 'canadian pop', 'pop']",105306
+286,4/5/2020 23:18,The Weeknd,Blinding Lights,canadian contemporary r&b,Sunday,"['canadian contemporary r&b', 'canadian pop', 'pop']",96569
+287,4/5/2020 23:22,KANA-BOON,Silhouette,anime,Sunday,"['anime', 'j-pop', 'j-poprock', 'j-rock']",240133
+288,4/5/2020 23:23,Luke Bryan,One Margarita,contemporary country,Sunday,"['contemporary country', 'country', 'country road']",56784
+289,4/6/2020 20:20,Emotional Oranges,Sundays,alternative r&b,Monday,['alternative r&b'],189093
+290,4/6/2020 20:24,Emotional Oranges,West Coast Love,alternative r&b,Monday,['alternative r&b'],215386
+291,4/6/2020 20:42,Riley Green,I Wish Grandpas Never Died,contemporary country,Monday,"['contemporary country', 'country road']",250413
+292,4/6/2020 20:43,Kelleigh Bannen,Famous,contemporary country,Monday,"['contemporary country', 'country dawn', 'country pop']",34276
+293,4/6/2020 20:49,Ed Sheeran,Castle on the Hill,pop,Monday,"['pop', 'uk pop']",261153
+294,4/6/2020 21:10,Selena,Bidi Bidi Bom Bom,dance pop,Monday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",187524
+295,4/6/2020 21:14,Selena,El Chico Del Apartamento 512,dance pop,Monday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",208866
+296,4/6/2020 21:20,Antonio Banderas,Cancion del Mariachi,hollywood,Monday,['hollywood'],127226
+297,4/6/2020 21:21,Shawn Mendes,Señorita,canadian pop,Monday,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",50023
+298,4/6/2020 21:26,P!nk,A Million Dreams,dance pop,Monday,"['dance pop', 'pop', 'post-teen pop']",273640
+299,4/6/2020 21:26,Iyaz,Replay,dance pop,Monday,"['dance pop', 'pop rap', 'post-teen pop']",40130
+300,4/6/2020 21:37,Cash Cash,I Found You,big room,Monday,"['big room', 'dance pop', 'edm', 'electro house', 'electropop', 'electropowerpop', 'indie poptimism', 'pop', 'pop dance', 'pop edm', 'tropical house']",167307
+301,4/6/2020 21:40,Phil Collins,"Son of Man - From ""Tarzan""/Soundtrack Version",mellow gold,Monday,"['mellow gold', 'rock drums', 'soft rock']",166040
+302,4/6/2020 22:24,Counting Crows,Big Yellow Taxi,alternative rock,Monday,"['alternative rock', 'mellow gold', 'neo mellow', 'pop rock', 'rock']",68340
+303,4/6/2020 22:44,Juan Magán,Echa Pa Aca,dance pop,Monday,"['dance pop', 'electro latino', 'latin', 'latin pop', 'reggaeton', 'tropical']",184113
+304,4/6/2020 22:50,Tiësto,WOW,big room,Monday,"['big room', 'brostep', 'dance pop', 'dutch edm', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'trance', 'tropical house']",148125
+305,4/6/2020 22:52,3 Doors Down,Kryptonite,alternative metal,Monday,"['alternative metal', 'nu metal', 'pop rock', 'post-grunge']",99254
+306,4/7/2020 0:01,3 Doors Down,Kryptonite,alternative metal,Tuesday,"['alternative metal', 'nu metal', 'pop rock', 'post-grunge']",48423
+307,4/7/2020 0:03,Selena,Bidi Bidi Bom Bom,dance pop,Tuesday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",135729
+308,4/7/2020 0:15,Emotional Oranges,Sundays,alternative r&b,Tuesday,['alternative r&b'],161826
+309,4/7/2020 0:20,Chris Young,Town Ain't Big Enough,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'modern country rock']",102307
+310,4/7/2020 0:26,Luke Combs,Beautiful Crazy,contemporary country,Tuesday,['contemporary country'],141548
+311,4/7/2020 3:08,Counting Crows,Big Yellow Taxi,alternative rock,Tuesday,"['alternative rock', 'mellow gold', 'neo mellow', 'pop rock', 'rock']",225573
+312,4/7/2020 3:16,Sister Hazel,Mandolin Moon,acoustic pop,Tuesday,"['acoustic pop', 'neo mellow', 'pop rock']",214346
+313,4/7/2020 3:19,Emotional Oranges,Corners Of My Mind,alternative r&b,Tuesday,['alternative r&b'],212866
+314,4/7/2020 3:26,Billy Joel,We Didn't Start the Fire,album rock,Tuesday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",287733
+315,4/7/2020 3:35,Thomas Rhett,Be A Light,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'modern country rock']",173960
+316,4/7/2020 6:10,Keith Urban,I'm In,australian country,Tuesday,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",42830
+317,4/7/2020 20:53,Emotional Oranges,Sundays,alternative r&b,Tuesday,['alternative r&b'],189093
+318,4/7/2020 21:25,Taron Egerton,"I'm Still Standing - From ""Sing"" Original Motion Picture Soundtrack",hollywood,Tuesday,['hollywood'],187853
+319,4/7/2020 21:36,Dan + Shay,"10,000 Hours (with Justin Bieber)",contemporary country,Tuesday,"['contemporary country', 'pop']",167693
+320,4/7/2020 22:20,Bobby Day,Rockin' Robin,doo-wop,Tuesday,"['doo-wop', 'rhythm and blues', 'rock-and-roll', 'rockabilly']",160080
+321,4/7/2020 22:42,Zac Brown Band,Lance's Song,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'modern country rock']",274613
+322,4/7/2020 22:49,Neil Diamond,Cracklin' Rosie,adult standards,Tuesday,"['adult standards', 'brill building pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",178853
+323,4/7/2020 23:34,Rex Orange County,Loving Is Easy,bedroom pop,Tuesday,"['bedroom pop', 'pop']",155720
+324,4/7/2020 23:37,blink-182,She's Out Of Her Mind,pop punk,Tuesday,"['pop punk', 'punk', 'socal pop punk']",162720
+325,4/7/2020 23:59,Spencer Crandall,Do It All Again,contemporary country,Tuesday,"['contemporary country', 'country pop']",203018
+326,4/8/2020 0:02,Pentatonix,Sing,a cappella,Wednesday,['a cappella'],177240
+327,4/8/2020 0:06,Dean Brody,It's Friday,canadian contemporary country,Wednesday,"['canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']",190960
+328,4/8/2020 0:21,Old Dominion,Make It Sweet,contemporary country,Wednesday,"['contemporary country', 'country road']",187000
+329,4/8/2020 0:23,Elvis Presley,Stuck on You,rock-and-roll,Wednesday,"['rock-and-roll', 'rockabilly']",139640
+330,4/8/2020 0:36,The Tokens,Tonight I Met an Angel,brill building pop,Wednesday,"['brill building pop', 'doo-wop', 'sunshine pop']",118306
+331,4/8/2020 0:47,Chris Young,Town Ain't Big Enough,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'modern country rock']",171800
+332,4/8/2020 0:54,The Goo Goo Dolls,Come to Me,alternative rock,Wednesday,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",225333
+333,4/8/2020 2:58,Smash Mouth,I'm A Believer - Radio Edit,alternative rock,Wednesday,"['alternative rock', 'pop rock']",183400
+334,4/8/2020 3:35,Hillsong Worship,I Surrender - Live,ccm,Wednesday,"['ccm', 'christian music', 'russian ccm', 'world worship', 'worship']",346346
+335,4/8/2020 3:41,Kacey Musgraves,Follow Your Arrow,contemporary country,Wednesday,"['contemporary country', 'country dawn', 'pop', 'texas country']",199640
+336,4/8/2020 3:48,ABBA,Waterloo,europop,Wednesday,"['europop', 'swedish pop']",168826
+337,4/8/2020 6:21,Sam Hunt,Leave The Night On,contemporary country,Wednesday,"['contemporary country', 'country pop']",65300
+338,4/8/2020 18:04,We The Kings,Kids In The Moonlight,neon pop punk,Wednesday,"['neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']",201813
+339,4/8/2020 18:47,Chris Tomlin,Whom Shall I Fear (God Of Angel Armies),ccm,Wednesday,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",267906
+340,4/8/2020 20:28,KANA-BOON,Silhouette,anime,Wednesday,"['anime', 'j-pop', 'j-poprock', 'j-rock']",240133
+341,4/8/2020 20:37,John Denver,"Leaving, On a Jet Plane - ""Greatest Hits"" Version",adult standards,Wednesday,"['adult standards', 'classic country pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",245533
+342,4/8/2020 20:42,Three Dog Night,Joy To The World,album rock,Wednesday,"['album rock', 'art rock', 'blues rock', 'brill building pop', 'bubblegum pop', 'classic rock', 'country rock', 'folk', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'roots rock', 'soft rock']",161410
+343,4/8/2020 21:21,Counting Crows,Big Yellow Taxi,alternative rock,Wednesday,"['alternative rock', 'mellow gold', 'neo mellow', 'pop rock', 'rock']",225573
+344,4/8/2020 21:38,Tim McGraw,Thought About You,contemporary country,Wednesday,"['contemporary country', 'country', 'country road']",225694
+345,4/8/2020 21:56,Zac Brown Band,Lance's Song,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'modern country rock']",274613
+346,4/8/2020 22:15,Zac Brown Band,My Old Man,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'modern country rock']",227222
+347,4/8/2020 22:29,Blake Shelton,Nobody But You (Duet with Gwen Stefani) - Acoustic,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'oklahoma country']",198413
+348,4/9/2020 2:15,Cher,Super Trouper,dance pop,Thursday,"['dance pop', 'hollywood', 'new wave pop', 'pop']",231480
+349,4/9/2020 3:19,Tame Impala,The Less I Know The Better,australian psych,Thursday,"['australian psych', 'neo-psychedelic']",216320
+350,4/9/2020 3:31,Zac Brown Band,Goodbye in Her Eyes,contemporary country,Thursday,"['contemporary country', 'country', 'country road', 'modern country rock']",324266
+351,4/9/2020 3:54,Boys Like Girls,Five Minutes to Midnight,neo mellow,Thursday,"['neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop']",227360
+352,4/9/2020 4:06,Hillsong UNITED,Hosanna,ccm,Thursday,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",330360
+353,4/9/2020 4:13,The Goo Goo Dolls,Come to Me,alternative rock,Thursday,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",225333
+354,4/9/2020 4:30,Tim McGraw,Just To See You Smile,contemporary country,Thursday,"['contemporary country', 'country', 'country road']",215173
+355,4/9/2020 4:50,Robin Schulz,Sugar (feat. Francesco Yates),dance pop,Thursday,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",219043
+356,4/9/2020 4:59,David Ball,Riding With Private Malone,country,Thursday,"['country', 'country road', 'country rock']",275053
+357,4/9/2020 5:06,Journey,Faithfully,album rock,Thursday,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",253530
+358,4/9/2020 20:57,Twenty One Pilots,Fake You Out,modern rock,Thursday,"['modern rock', 'rock']",231320
+359,4/9/2020 22:42,HIXTAPE,Nothin’ Out Here (HARDY feat. Thomas Rhett),contemporary country,Thursday,['contemporary country'],176530
+360,4/10/2020 1:12,Gorillaz,Feel Good Inc.,alternative hip hop,Friday,['alternative hip hop'],69740
+361,4/10/2020 1:15,Gorillaz,Clint Eastwood,alternative hip hop,Friday,['alternative hip hop'],111620
+362,4/10/2020 2:22,Carly Pearce,I Hope You’re Happy Now,contemporary country,Friday,"['contemporary country', 'country pop']",90925
+363,4/10/2020 2:25,Rascal Flatts,I Won't Let Go,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'pop rock']",224129
+364,4/10/2020 2:50,Plain White T's,Rhythm Of Love,neo mellow,Friday,"['neo mellow', 'pop', 'pop punk', 'pop rock']",73091
+365,4/10/2020 2:51,Dean Brody,It's Friday,canadian contemporary country,Friday,"['canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']",75982
+366,4/10/2020 2:54,Phillip Phillips,Home,folk-pop,Friday,"['folk-pop', 'modern rock', 'neo mellow', 'pop rock']",210173
+367,4/10/2020 2:56,Taylor Swift,The Lucky One,dance pop,Friday,"['dance pop', 'pop']",72953
+368,4/10/2020 2:59,Ed Sheeran,Nancy Mulligan,pop,Friday,"['pop', 'uk pop']",179786
+369,4/10/2020 3:02,Ed Sheeran,Happier,pop,Friday,"['pop', 'uk pop']",207520
+370,4/10/2020 3:05,Luke Combs,Beautiful Crazy,contemporary country,Friday,['contemporary country'],193200
+371,4/10/2020 3:09,Lady A,What I’m Leaving For,contemporary country,Friday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",196643
+372,4/10/2020 3:11,The Goo Goo Dolls,Sympathy,alternative rock,Friday,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",120470
+373,4/10/2020 22:22,Gorillaz,Feel Good Inc.,alternative hip hop,Friday,['alternative hip hop'],222640
+374,4/10/2020 22:30,Gorillaz,Clint Eastwood,alternative hip hop,Friday,['alternative hip hop'],232348
+375,4/10/2020 22:33,U2,Vertigo,irish rock,Friday,"['irish rock', 'permanent wave', 'rock']",194520
+376,4/10/2020 22:36,Hollywood Undead,Another Way Out,alternative metal,Friday,"['alternative metal', 'modern rock', 'nu metal', 'rap metal', 'rap rock']",167666
+377,4/10/2020 22:40,Pitbull,Free Free Free,dance pop,Friday,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance', 'pop rap']",200727
+378,4/11/2020 6:59,Jelani Aryeh,Stella Brown,alternative r&b,Saturday,"['alternative r&b', 'bedroom soul']",125357
+379,4/11/2020 20:23,Jelani Aryeh,Stella Brown,alternative r&b,Saturday,"['alternative r&b', 'bedroom soul']",187415
+380,4/11/2020 20:24,Joey + Rory,"Cheater, Cheater",country,Saturday,"['country', 'country dawn']",50761
+381,4/11/2020 20:27,Emotional Oranges,West Coast Love,alternative r&b,Saturday,['alternative r&b'],215386
+382,4/11/2020 20:28,VERIDIA,Disconnected,christian alternative rock,Saturday,"['christian alternative rock', 'christian rock', 'pixie', 'pop emo']",48986
+383,4/11/2020 23:55,Jelani Aryeh,Stella Brown,alternative r&b,Saturday,"['alternative r&b', 'bedroom soul']",177694
+384,4/12/2020 0:01,Emotional Oranges,Sundays,alternative r&b,Sunday,['alternative r&b'],103585
+385,4/12/2020 0:02,Emotional Oranges,Sundays,alternative r&b,Sunday,['alternative r&b'],87113
+386,4/12/2020 0:09,Secondhand Serenade,Fall For You,neo mellow,Sunday,"['neo mellow', 'piano rock', 'pixie', 'pop punk', 'pop rock']",102771
+387,4/12/2020 0:16,Luke Bryan,Most People Are Good,contemporary country,Sunday,"['contemporary country', 'country', 'country road']",221800
+388,4/12/2020 0:17,Passenger,Let Her Go,folk-pop,Sunday,"['folk-pop', 'neo mellow', 'pop']",59328
+389,4/14/2020 2:36,Emotional Oranges,West Coast Love,alternative r&b,Tuesday,['alternative r&b'],215386
+390,4/14/2020 2:46,Luke Combs,Even Though I'm Leaving,contemporary country,Tuesday,['contemporary country'],225253
+391,4/14/2020 2:52,Jelani Aryeh,Stella Brown,alternative r&b,Tuesday,"['alternative r&b', 'bedroom soul']",182610
+392,4/14/2020 2:56,Rascal Flatts,I Won't Let Go,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'pop rock']",226450
+393,4/14/2020 3:10,Blake Shelton,Nobody But You (Duet with Gwen Stefani) - Acoustic,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'oklahoma country']",196840
+394,4/14/2020 3:27,FLOW,GO!!!,anime,Tuesday,"['anime', 'anime score', 'j-poprock', 'otacore']",89100
+395,4/14/2020 3:28,Runrig,Tear Down These Walls,celtic,Tuesday,"['celtic', 'celtic rock', 'scottish rock']",92040
+396,4/14/2020 3:31,TWICE,Like Ooh-Ahh,k-pop,Tuesday,"['k-pop', 'k-pop girl group']",52550
+397,4/14/2020 3:32,PSY,"It's Art (Music from Fantastic Duo 2, Pt. 4)",k-pop,Tuesday,"['k-pop', 'k-rap']",65670
+398,4/14/2020 3:35,PSY,It's Art - Live,k-pop,Tuesday,"['k-pop', 'k-rap']",33610
+399,4/14/2020 3:42,Merle Haggard,Mama Tried,bakersfield sound,Tuesday,"['bakersfield sound', 'country', 'country rock', 'nashville sound', 'outlaw country']",134453
+400,4/14/2020 3:52,Justin Moore,If Heaven Wasn't So Far Away,arkansas country,Tuesday,"['arkansas country', 'contemporary country', 'country', 'country road', 'modern country rock', 'redneck']",223280
+401,4/14/2020 3:59,Jason Derulo,In My Head,dance pop,Tuesday,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']",199026
+402,4/14/2020 4:01,Mark Keali'i Ho'omalu,"He Mele No Lilo - From ""Lilo & Stitch""/Soundtrack Version",movie tunes,Tuesday,['movie tunes'],148133
+403,4/14/2020 4:19,Phil Collins,You Can't Hurry Love - 2016 Remaster,mellow gold,Tuesday,"['mellow gold', 'rock drums', 'soft rock']",175746
+404,4/14/2020 21:56,KANA-BOON,Silhouette,anime,Tuesday,"['anime', 'j-pop', 'j-poprock', 'j-rock']",235750
+405,4/14/2020 22:33,Redbone,Come and Get Your Love,native american,Tuesday,"['native american', 'native american contemporary']",300666
+406,4/14/2020 23:35,MKTO,Monaco,dance pop,Tuesday,"['dance pop', 'electropop', 'pop', 'pop rap', 'pop rock', 'post-teen pop']",125390
+407,4/14/2020 23:39,Lady A,Champagne Night - From Songland,contemporary country,Tuesday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",35894
+408,4/14/2020 23:42,Jelani Aryeh,Stella Brown,alternative r&b,Tuesday,"['alternative r&b', 'bedroom soul']",176800
+409,4/14/2020 23:46,Jason Derulo,In My Head,dance pop,Tuesday,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']",48870
+410,4/14/2020 23:47,Jonas Brothers,What A Man Gotta Do,boy band,Tuesday,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",58191
+411,4/14/2020 23:52,Chris Young,Drowning - Piano Version,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'modern country rock']",71447
+412,4/15/2020 20:11,Declan McKenna,Brazil,indie pop,Wednesday,"['indie pop', 'modern alternative rock', 'modern rock', 'rock']",250600
+413,4/15/2020 20:25,Thomas Rhett,Be A Light,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'modern country rock']",173960
+414,4/15/2020 20:28,Stellar Kart,Can You Feel The Love Tonight,ccm,Wednesday,"['ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'worship']",224573
+415,4/15/2020 20:29,Kevin Rudolf,Here's To Us,dance pop,Wednesday,"['dance pop', 'pop rap']",43885
+416,4/15/2020 20:37,Jelani Aryeh,Stella Brown,alternative r&b,Wednesday,"['alternative r&b', 'bedroom soul']",187415
+417,4/15/2020 20:56,Frankie Valli & The Four Seasons,Beggin' - 2007 Remaster,adult standards,Wednesday,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'lounge', 'motown', 'northern soul', 'rock-and-roll']",168706
+418,4/15/2020 21:00,Donnie Trumpet & The Social Experiment,Sunday Candy,pop soul,Wednesday,['pop soul'],226013
+419,4/15/2020 21:10,The Goo Goo Dolls,Sympathy,alternative rock,Wednesday,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",178146
+420,4/15/2020 21:19,Boys Like Girls,Five Minutes to Midnight,neo mellow,Wednesday,"['neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop']",227360
+421,4/15/2020 21:27,Lady A,American Honey,contemporary country,Wednesday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",224866
+422,4/15/2020 21:32,Edwin McCain,I'll Be - 45 Version,acoustic pop,Wednesday,"['acoustic pop', 'neo mellow', 'pop rock']",266280
+423,4/15/2020 21:51,Bowling For Soup,High School Never Ends - Main Version - Explicit,comic,Wednesday,"['comic', 'pop punk', 'texas pop punk']",209040
+424,4/15/2020 22:02,Sister Hazel,All For You,acoustic pop,Wednesday,"['acoustic pop', 'neo mellow', 'pop rock']",218706
+425,4/15/2020 22:19,Riley Green,I Wish Grandpas Never Died,contemporary country,Wednesday,"['contemporary country', 'country road']",242900
+426,4/15/2020 22:22,Jonas Brothers,Like It's Christmas,boy band,Wednesday,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",200880
+427,4/15/2020 22:26,Stellar Kart,Can You Feel The Love Tonight,ccm,Wednesday,"['ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'worship']",224573
+428,4/16/2020 6:18,Tim McGraw,Thought About You,contemporary country,Thursday,"['contemporary country', 'country', 'country road']",31580
+429,4/16/2020 19:52,Lady A,Champagne Night - From Songland,contemporary country,Thursday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",185069
+430,4/16/2020 20:04,The Foundations,Build Me Up Buttercup,brill building pop,Thursday,"['brill building pop', 'bubblegum pop', 'folk rock', 'motown']",177533
+431,4/16/2020 20:11,Elvis Presley,Burning Love - Live,rock-and-roll,Thursday,"['rock-and-roll', 'rockabilly']",177080
+432,4/16/2020 20:14,One Direction,Diana,boy band,Thursday,"['boy band', 'pop', 'post-teen pop', 'talent show']",184666
+433,4/16/2020 20:44,Kings Kaleidoscope,Fix My Eyes,anthem worship,Thursday,"['anthem worship', 'ccm', 'christian pop', 'christian uplift', 'indiecoustica', 'roots worship', 'world worship', 'worship']",293173
+434,4/16/2020 20:51,Keith Urban,I'm In,australian country,Thursday,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",273520
+435,4/16/2020 20:55,Cher,Super Trouper,dance pop,Thursday,"['dance pop', 'hollywood', 'new wave pop', 'pop']",231480
+436,4/16/2020 20:59,Zac Brown Band,Whatever It Is,contemporary country,Thursday,"['contemporary country', 'country', 'country road', 'modern country rock']",208213
+437,4/16/2020 21:24,Old Dominion,Written in the Sand,contemporary country,Thursday,"['contemporary country', 'country road']",184080
+438,4/16/2020 21:28,Steven Curtis Chapman,Cinderella,ccm,Thursday,"['ccm', 'christian alternative rock', 'christian music', 'worship']",265253
+439,4/16/2020 21:39,Jonas Brothers,Lovebug,boy band,Thursday,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",220693
+440,4/16/2020 21:49,Jonas Brothers,Strangers,boy band,Thursday,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",233853
+441,4/16/2020 21:56,Taylor Swift,Paper Rings,dance pop,Thursday,"['dance pop', 'pop']",222400
+442,4/16/2020 22:00,Panic! At The Disco,Nine in the Afternoon - Single Mix,baroque pop,Thursday,"['baroque pop', 'emo', 'modern rock']",191560
+443,4/16/2020 23:54,Lady Gaga,Telephone,dance pop,Thursday,"['dance pop', 'pop', 'pop dance']",220626
+444,4/17/2020 20:14,Gorillaz,Feel Good Inc.,alternative hip hop,Friday,['alternative hip hop'],222640
+445,4/17/2020 21:14,Lady A,Champagne Night - From Songland,contemporary country,Friday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",185069
+446,4/17/2020 21:17,Phil Collins,"Son of Man - From ""Tarzan""/Soundtrack Version",mellow gold,Friday,"['mellow gold', 'rock drums', 'soft rock']",166040
+447,4/17/2020 21:27,PSY,"It's Art (Music from Fantastic Duo 2, Pt. 4)",k-pop,Friday,"['k-pop', 'k-rap']",245802
+448,4/18/2020 3:33,Justin Moore,If Heaven Wasn't So Far Away,arkansas country,Saturday,"['arkansas country', 'contemporary country', 'country', 'country road', 'modern country rock', 'redneck']",106366
+449,4/18/2020 3:39,Sister Hazel,Mandolin Moon,acoustic pop,Saturday,"['acoustic pop', 'neo mellow', 'pop rock']",214346
+450,4/18/2020 4:09,High Valley,She's With Me,alberta country,Saturday,"['alberta country', 'canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",44327
+451,4/18/2020 4:19,Taron Egerton,"I'm Still Standing - From ""Sing"" Original Motion Picture Soundtrack",hollywood,Saturday,['hollywood'],187853
+452,4/18/2020 4:24,Spencer Crandall,Do It All Again,contemporary country,Saturday,"['contemporary country', 'country pop']",203018
+453,4/18/2020 4:52,Chris Tomlin,Whom Shall I Fear (God Of Angel Armies),ccm,Saturday,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",33182
+454,4/18/2020 22:20,Boston,Peace of Mind,album rock,Saturday,"['album rock', 'art rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",303586
+455,4/18/2020 22:31,Kings of Leon,Sex on Fire,modern rock,Saturday,"['modern rock', 'rock']",134729
+456,4/19/2020 0:03,Kings of Leon,Sex on Fire,modern rock,Sunday,"['modern rock', 'rock']",35150
+457,4/19/2020 0:06,Selena,Bidi Bidi Bom Bom,dance pop,Sunday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",178226
+458,4/19/2020 0:14,Sara Evans,Suds in the Bucket,contemporary country,Sunday,"['contemporary country', 'country', 'country dawn', 'country gospel', 'country road']",227266
+459,4/19/2020 0:30,Thomas Rhett,Almost,contemporary country,Sunday,"['contemporary country', 'country', 'country road', 'modern country rock']",52484
+460,4/19/2020 0:44,Chris Tomlin,"Sing, Sing, Sing",ccm,Sunday,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",115310
+461,4/19/2020 19:22,Jelani Aryeh,Stella Brown,alternative r&b,Sunday,"['alternative r&b', 'bedroom soul']",178165
+462,4/19/2020 19:40,Keith Urban,Somewhere In My Car,australian country,Sunday,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",58842
+463,4/20/2020 19:01,The Goo Goo Dolls,Come to Me,alternative rock,Monday,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",225333
+464,4/20/2020 19:04,Dan + Shay,Speechless,contemporary country,Monday,"['contemporary country', 'pop']",172737
+465,4/20/2020 21:09,PSY,"It's Art (Music from Fantastic Duo 2, Pt. 4)",k-pop,Monday,"['k-pop', 'k-rap']",92550
+466,4/20/2020 21:12,Lady A,Champagne Night - From Songland,contemporary country,Monday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",185069
+467,4/20/2020 21:17,Brenton Brown,Hosanna (Praise Is Rising) - Everlasting God Album Version,worship,Monday,['worship'],272647
+468,4/20/2020 21:21,Big Daddy Weave,The Only Name (Yours Will Be),anthem worship,Monday,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'worship']",261880
+469,4/21/2020 6:55,Junior Doctor,Uh Oh,pop emo,Tuesday,['pop emo'],166830
+470,4/21/2020 8:02,Hillsong UNITED,Oceans (Where Feet May Fail),ccm,Tuesday,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",142417
+471,4/22/2020 8:26,Hillsong UNITED,Oceans (Where Feet May Fail),ccm,Wednesday,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",153588
+472,4/22/2020 20:23,The Weeknd,Blinding Lights,canadian contemporary r&b,Wednesday,"['canadian contemporary r&b', 'canadian pop', 'pop']",200040
+473,4/22/2020 20:49,Ailee,여인의 향기,k-pop,Wednesday,"['k-pop', 'korean pop']",212560
+474,4/22/2020 21:07,Luke Bryan,One Margarita,contemporary country,Wednesday,"['contemporary country', 'country', 'country road']",166920
+475,4/22/2020 21:12,Thomas Rhett,Be A Light,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'modern country rock']",173960
+476,4/22/2020 21:20,The Goo Goo Dolls,Come to Me,alternative rock,Wednesday,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",225333
+477,4/22/2020 21:49,Thomas Rhett,Remember You Young,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'modern country rock']",180466
+478,4/22/2020 21:57,Thomas Rhett,Almost,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'modern country rock']",191591
+479,4/22/2020 22:02,Lady Gaga,Just Dance,dance pop,Wednesday,"['dance pop', 'pop', 'pop dance']",84218
+480,4/23/2020 7:36,Chris Tomlin,Amazing Grace (My Chains Are Gone),ccm,Thursday,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",157495
+481,4/23/2020 20:35,Selena,Bidi Bidi Bom Bom,dance pop,Thursday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",180950
+482,4/23/2020 20:39,ABBA,Waterloo,europop,Thursday,"['europop', 'swedish pop']",151300
+483,4/23/2020 20:42,We The Kings,Kids In The Moonlight,neon pop punk,Thursday,"['neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']",201813
+484,4/23/2020 20:47,Blake Shelton,Nobody But You (Duet with Gwen Stefani) - Acoustic,contemporary country,Thursday,"['contemporary country', 'country', 'country road', 'oklahoma country']",198413
+485,4/23/2020 20:48,Ylvis,Mr. Toot,comic,Thursday,['comic'],54836
+486,4/23/2020 20:51,Jelani Aryeh,Stella Brown,alternative r&b,Thursday,"['alternative r&b', 'bedroom soul']",185810
+487,4/23/2020 21:31,Hot Country Knights,Pick Her Up - Radio Edit,contemporary country,Thursday,['contemporary country'],168477
+488,4/24/2020 4:21,The Beatles,"Ob-La-Di, Ob-La-Da - Remastered 2009",beatlesque,Friday,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",133960
+489,4/24/2020 7:55,Hillsong Worship,I Surrender - Live,ccm,Friday,"['ccm', 'christian music', 'russian ccm', 'world worship', 'worship']",233145
+490,4/24/2020 20:28,Brewer & Shipley,One Toke Over the Line,country rock,Friday,"['country rock', 'folk rock', 'mellow gold', 'soft rock']",199173
+491,4/24/2020 20:54,The Chicks,Gaslighter,contemporary country,Friday,"['contemporary country', 'country', 'country dawn']",203466
+492,4/24/2020 21:03,Kenny Chesney,American Kids,contemporary country,Friday,"['contemporary country', 'country', 'country road']",49760
+493,4/24/2020 21:21,Rascal Flatts,My Wish,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'pop rock']",248280
+494,4/24/2020 21:32,Jonas Brothers,What A Man Gotta Do,boy band,Friday,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",180644
+495,4/24/2020 21:39,Mike Posner,Cooler Than Me,dance pop,Friday,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",195020
+496,4/24/2020 21:43,John Denver,Calypso,adult standards,Friday,"['adult standards', 'classic country pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",213870
+497,4/25/2020 0:19,Joseph Vincent,Set You Free,pop,Saturday,"['pop', 'viral pop']",205529
+498,4/25/2020 0:32,Dan + Shay,"10,000 Hours (with Justin Bieber)",contemporary country,Saturday,"['contemporary country', 'pop']",167693
+499,4/25/2020 0:36,Kurt Hugo Schneider,Not Over You,channel pop,Saturday,"['channel pop', 'indie cafe pop', 'pop', 'post-teen pop', 'viral pop']",224347
+500,4/25/2020 0:47,Zac Brown Band,My Old Man,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'modern country rock']",211374
+501,4/25/2020 0:50,MAN WITH A MISSION,Seven Deadly Sins,anime,Saturday,"['anime', 'anime rock', 'j-pop', 'j-poprock', 'j-rock', 'otacore']",207000
+502,4/25/2020 0:52,Billy Joel,Piano Man,album rock,Saturday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",75445
+503,4/25/2020 0:55,Selena,Bidi Bidi Bom Bom,dance pop,Saturday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",185058
+504,4/25/2020 0:58,Spencer Crandall,Do It All Again,contemporary country,Saturday,"['contemporary country', 'country pop']",200354
+505,4/25/2020 0:59,Blake Shelton,Nobody But You (Duet with Gwen Stefani) - Acoustic,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'oklahoma country']",42678
+506,4/25/2020 1:02,Blake Shelton,Nobody But You (Duet with Gwen Stefani) - Acoustic,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'oklahoma country']",151550
+507,4/25/2020 1:05,Rascal Flatts,I Won't Let Go,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'pop rock']",211348
+508,4/25/2020 1:50,Thomas Rhett,Be A Light,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'modern country rock']",73233
+509,4/25/2020 1:52,Thomas Rhett,Be A Light,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'modern country rock']",96639
+510,4/25/2020 1:59,Frankie Valli & The Four Seasons,"December, 1963 (Oh What a Night!)",adult standards,Saturday,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'lounge', 'motown', 'northern soul', 'rock-and-roll']",194953
+511,4/25/2020 2:19,Counting Crows,Big Yellow Taxi,alternative rock,Saturday,"['alternative rock', 'mellow gold', 'neo mellow', 'pop rock', 'rock']",42353
+512,4/25/2020 2:27,Mandy Moore,"I See the Light - From ""Tangled"" / Soundtrack Version",dance pop,Saturday,"['dance pop', 'hollywood', 'movie tunes', 'post-teen pop', 'show tunes']",216673
+513,4/25/2020 2:35,Junior Doctor,Uh Oh,pop emo,Saturday,['pop emo'],213218
+514,4/25/2020 2:40,Mark Keali'i Ho'omalu,"He Mele No Lilo - From ""Lilo & Stitch""/Soundtrack Version",movie tunes,Saturday,['movie tunes'],109099
+515,4/25/2020 3:21,Sam Hunt,Hard To Forget,contemporary country,Saturday,"['contemporary country', 'country pop']",204760
+516,4/25/2020 4:34,ABBA,Waterloo,europop,Saturday,"['europop', 'swedish pop']",168826
+517,4/25/2020 20:15,Emotional Oranges,Sundays,alternative r&b,Saturday,['alternative r&b'],189093
+518,4/25/2020 20:32,Zac Brown Band,2 Places at 1 Time,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'modern country rock']",92160
+519,4/25/2020 21:32,Dean Brody,It's Friday,canadian contemporary country,Saturday,"['canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']",190960
+520,4/25/2020 21:36,Thomas Rhett,Die A Happy Man,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'modern country rock']",227426
+521,4/25/2020 21:40,Bowling For Soup,Girl All the Bad Guys Want,comic,Saturday,"['comic', 'pop punk', 'texas pop punk']",197800
+522,4/25/2020 22:01,Zac Brown Band,Whatever It Is,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'modern country rock']",208213
+523,4/25/2020 22:09,Thomas Rhett,Remember You Young,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'modern country rock']",180466
+524,4/25/2020 22:12,Keith Urban,Raise 'Em Up,australian country,Saturday,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",184946
+525,4/25/2020 22:30,Alan Jackson,Remember When,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'country rock']",271280
+526,4/25/2020 22:34,Sam Hunt,Make You Miss Me,contemporary country,Saturday,"['contemporary country', 'country pop']",225693
+527,4/25/2020 22:40,Bowling For Soup,Almost,comic,Saturday,"['comic', 'pop punk', 'texas pop punk']",103380
+528,4/25/2020 22:41,Bowling For Soup,Almost,comic,Saturday,"['comic', 'pop punk', 'texas pop punk']",82843
+529,4/25/2020 22:45,Sam Hunt,Hard To Forget,contemporary country,Saturday,"['contemporary country', 'country pop']",204760
+530,4/25/2020 22:50,Luke Bryan,Rain Is A Good Thing,contemporary country,Saturday,"['contemporary country', 'country', 'country road']",130520
+531,4/25/2020 23:11,Emotional Oranges,West Coast Love,alternative r&b,Saturday,['alternative r&b'],191780
+532,4/26/2020 22:21,Billy Joel,The Longest Time,album rock,Sunday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",205859
+533,4/26/2020 22:36,The Tech Thieves,Fake,bass trap,Sunday,"['bass trap', 'modern alternative rock', 'traprun']",141176
+534,4/26/2020 22:39,Journey,Separate Ways (Worlds Apart),album rock,Sunday,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",214856
+535,4/27/2020 20:14,Jelani Aryeh,Stella Brown,alternative r&b,Monday,"['alternative r&b', 'bedroom soul']",187415
+536,4/27/2020 20:18,Billy Joel,The Longest Time,album rock,Monday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",216230
+537,4/27/2020 20:26,Buddy Jewell,Sweet Southern Comfort,country,Monday,"['country', 'country road']",212906
+538,4/27/2020 20:40,Luke Combs,Even Though I'm Leaving,contemporary country,Monday,['contemporary country'],225253
+539,4/27/2020 20:44,The Goo Goo Dolls,Come to Me,alternative rock,Monday,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",225333
+540,4/27/2020 20:47,Chase Rice,Eyes On You,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'modern country rock']",182493
+541,4/27/2020 20:50,Jonas Brothers,Sucker,boy band,Monday,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",181026
+542,4/27/2020 20:54,The Worship Initiative,Chain Breaker,anthem worship,Monday,"['anthem worship', 'ccm', 'indiecoustica', 'roots worship', 'world worship']",192080
+543,4/27/2020 21:36,Gorillaz,Clint Eastwood,alternative hip hop,Monday,['alternative hip hop'],300910
+544,4/27/2020 21:47,Christina Perri,A Thousand Years,dance pop,Monday,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",285120
+545,4/28/2020 7:18,Phil Collins,You Can't Hurry Love - 2016 Remaster,mellow gold,Tuesday,"['mellow gold', 'rock drums', 'soft rock']",75280
+546,4/28/2020 19:10,Billy Joel,The Longest Time,album rock,Tuesday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",200274
+547,4/28/2020 19:20,Luke Bryan,One Margarita,contemporary country,Tuesday,"['contemporary country', 'country', 'country road']",110970
+548,4/29/2020 0:50,Michael Bublé,Feeling Good,adult standards,Wednesday,"['adult standards', 'canadian pop', 'jazz pop', 'lounge']",42410
+549,4/29/2020 20:47,Taron Egerton,"I'm Still Standing - From ""Sing"" Original Motion Picture Soundtrack",hollywood,Wednesday,['hollywood'],187853
+550,4/29/2020 20:53,The Tokens,Tonight I Met an Angel,brill building pop,Wednesday,"['brill building pop', 'doo-wop', 'sunshine pop']",118306
+551,4/29/2020 20:57,Emotional Oranges,West Coast Love,alternative r&b,Wednesday,['alternative r&b'],215386
+552,4/29/2020 21:01,Elvis Presley,(You're The) Devil In Disguise,rock-and-roll,Wednesday,"['rock-and-roll', 'rockabilly']",140680
+553,4/29/2020 21:27,Brad Paisley,Mud on the Tires,contemporary country,Wednesday,"['contemporary country', 'country', 'country road']",208266
+554,4/30/2020 7:25,AMP,Never Change,christian,Thursday,['christian'],49300
+555,4/30/2020 19:09,Kings of Leon,Sex on Fire,modern rock,Thursday,"['modern rock', 'rock']",58268
+556,4/30/2020 19:11,Kings of Leon,Sex on Fire,modern rock,Thursday,"['modern rock', 'rock']",144935
+557,4/30/2020 19:15,Billy Joel,The Longest Time,album rock,Thursday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",217906
+558,4/30/2020 19:19,Runrig,Tear Down These Walls,celtic,Thursday,"['celtic', 'celtic rock', 'scottish rock']",248413
+559,4/30/2020 19:22,Sam Hunt,Hard To Forget,contemporary country,Thursday,"['contemporary country', 'country pop']",204760
+560,4/30/2020 19:27,Zac Brown Band,From Now On,contemporary country,Thursday,"['contemporary country', 'country', 'country road', 'modern country rock']",260960
+561,4/30/2020 19:31,Brad Paisley,Moonshine in the Trunk,contemporary country,Thursday,"['contemporary country', 'country', 'country road']",238613
+562,4/30/2020 19:35,Keith Urban,I'm In,australian country,Thursday,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",273520
+563,4/30/2020 19:39,Terry Jacks,Seasons in the Sun,classic uk pop,Thursday,['classic uk pop'],205586
+564,4/30/2020 19:43,Gloria Gaynor,I Will Survive - 1981 Re-recording,disco,Thursday,"['disco', 'europop']",261173
+565,4/30/2020 19:47,U2,The Miracle (Of Joey Ramone),irish rock,Thursday,"['irish rock', 'permanent wave', 'rock']",255382
+566,4/30/2020 19:50,The Weeknd,Blinding Lights,canadian contemporary r&b,Thursday,"['canadian contemporary r&b', 'canadian pop', 'pop']",200040
+567,4/30/2020 19:53,Hot Country Knights,Pick Her Up - Radio Edit,contemporary country,Thursday,['contemporary country'],168477
+568,4/30/2020 19:57,Zac Brown Band,Mango Tree,contemporary country,Thursday,"['contemporary country', 'country', 'country road', 'modern country rock']",221120
+569,4/30/2020 20:01,Ailee,여인의 향기,k-pop,Thursday,"['k-pop', 'korean pop']",212560
+570,4/30/2020 20:02,Selena,Bidi Bidi Bom Bom,dance pop,Thursday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",55456
+571,4/30/2020 22:26,Emotional Oranges,West Coast Love,alternative r&b,Thursday,['alternative r&b'],196917
+572,4/30/2020 22:29,Twenty One Pilots,House of Gold,modern rock,Thursday,"['modern rock', 'rock']",163880
+573,4/30/2020 22:32,Old Dominion,Make It Sweet,contemporary country,Thursday,"['contemporary country', 'country road']",187000
+574,4/30/2020 23:38,Shakira,Can't Remember to Forget You (feat. Rihanna),colombian pop,Thursday,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",206866
+575,4/30/2020 23:41,Luke Bryan,One Margarita,contemporary country,Thursday,"['contemporary country', 'country', 'country road']",167555
+576,5/1/2020 0:14,Billy Joel,The Longest Time,album rock,Friday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",176100
+577,5/1/2020 0:17,Billy Joel,The Longest Time,album rock,Friday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",33296
+578,5/1/2020 0:20,Jelani Aryeh,Stella Brown,alternative r&b,Friday,"['alternative r&b', 'bedroom soul']",187415
+579,5/1/2020 0:21,Dean Brody,It's Friday,canadian contemporary country,Friday,"['canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']",72503
+580,5/1/2020 17:49,Phil Collins,"Son of Man - From ""Tarzan""/Soundtrack Version",mellow gold,Friday,"['mellow gold', 'rock drums', 'soft rock']",166040
+581,5/1/2020 18:05,Taylor Swift,Paper Rings,dance pop,Friday,"['dance pop', 'pop']",222400
+582,5/1/2020 18:09,Macklemore,Good Old Days (feat. Kesha),pop rap,Friday,"['pop rap', 'seattle hip hop']",240506
+583,5/1/2020 18:18,Rush,Limelight,album rock,Friday,"['album rock', 'art rock', 'canadian metal', 'classic canadian rock', 'classic rock', 'hard rock', 'metal', 'progressive rock', 'rock']",259840
+584,5/1/2020 18:27,Jelani Aryeh,Stella Brown,alternative r&b,Friday,"['alternative r&b', 'bedroom soul']",187415
+585,5/1/2020 18:30,The Jackson 5,I Want You Back,adult standards,Friday,"['adult standards', 'motown']",176333
+586,5/1/2020 20:04,Nickelback,When We Stand Together,alternative metal,Friday,"['alternative metal', 'canadian rock', 'nu metal', 'post-grunge']",74341
+587,5/1/2020 20:07,Emotional Oranges,Sundays,alternative r&b,Friday,['alternative r&b'],186680
+588,5/1/2020 20:11,Emotional Oranges,West Coast Love,alternative r&b,Friday,['alternative r&b'],215386
+589,5/1/2020 20:24,Chris Young,Drowning - Piano Version,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'modern country rock']",182357
+590,5/1/2020 20:27,Chris Young,Town Ain't Big Enough,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'modern country rock']",171800
+591,5/1/2020 20:34,Luke Bryan,One Margarita,contemporary country,Friday,"['contemporary country', 'country', 'country road']",193426
+592,5/1/2020 20:49,Andy Grammer,"Don't Give Up On Me - (From ""Five Feet Apart"")",dance pop,Friday,"['dance pop', 'modern rock', 'neo mellow', 'pop', 'pop rock', 'post-teen pop']",196187
+593,5/1/2020 20:52,5 Seconds of Summer,Youngblood,boy band,Friday,"['boy band', 'dance pop', 'pop', 'post-teen pop']",203417
+594,5/1/2020 21:01,Eminem,The Real Slim Shady,detroit hip hop,Friday,"['detroit hip hop', 'hip hop', 'rap']",192230
+595,5/1/2020 23:02,Dean Brody,It's Friday,canadian contemporary country,Friday,"['canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']",127291
+596,5/1/2020 23:05,Billy Joel,The Longest Time,album rock,Friday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",121007
+597,5/1/2020 23:08,Ed Sheeran,Nancy Mulligan,pop,Friday,"['pop', 'uk pop']",72028
+598,5/1/2020 23:22,Brad Paisley,Mud on the Tires,contemporary country,Friday,"['contemporary country', 'country', 'country road']",72913
+599,5/2/2020 1:37,One Direction,No Control,boy band,Saturday,"['boy band', 'pop', 'post-teen pop', 'talent show']",197360
+600,5/2/2020 1:48,Emotional Oranges,Sundays,alternative r&b,Saturday,['alternative r&b'],181736
+601,5/2/2020 1:51,Billy Joel,The Longest Time,album rock,Saturday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",202431
+602,5/2/2020 22:27,Kings of Leon,Sex on Fire,modern rock,Saturday,"['modern rock', 'rock']",203346
+603,5/2/2020 22:37,Miani,Tu vivi nell'aria - Goodzilla Bounce Remix Edit,dance pop,Saturday,['dance pop'],74257
+604,5/3/2020 5:33,Alan Jackson,Remember When,contemporary country,Sunday,"['contemporary country', 'country', 'country road', 'country rock']",271280
+605,5/3/2020 5:37,James Taylor,Carolina in My Mind,adult standards,Sunday,"['adult standards', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",238573
+606,5/3/2020 5:54,Brett Dennen,Comeback Kid (That's My Dog),acoustic pop,Sunday,"['acoustic pop', 'indie folk', 'neo mellow', 'pop rock', 'stomp and holler']",205373
+607,5/3/2020 5:58,The Killers,When You Were Young,modern rock,Sunday,"['modern rock', 'permanent wave', 'rock']",220426
+608,5/3/2020 6:00,The Beach Boys,I Get Around (Mono),baroque pop,Sunday,"['baroque pop', 'brill building pop', 'classic rock', 'folk rock', 'psychedelic rock', 'rock', 'sunshine pop']",134386
+609,5/3/2020 6:09,Declan McKenna,Brazil,indie pop,Sunday,"['indie pop', 'modern alternative rock', 'modern rock', 'rock']",252306
+610,5/3/2020 6:21,Emotional Oranges,Corners Of My Mind,alternative r&b,Sunday,['alternative r&b'],212866
+611,5/3/2020 6:26,Mumford & Sons,Forever,modern folk rock,Sunday,"['modern folk rock', 'modern rock', 'stomp and holler', 'uk americana']",276780
+612,5/3/2020 6:38,The Beach Boys,Barbara Ann (Stereo) - Remastered,baroque pop,Sunday,"['baroque pop', 'brill building pop', 'classic rock', 'folk rock', 'psychedelic rock', 'rock', 'sunshine pop']",203000
+613,5/3/2020 6:44,Yiruma,Kiss The Rain,neo-classical,Sunday,"['neo-classical', 'new age piano']",213440
+614,5/3/2020 19:22,Luke Bryan,One Margarita,contemporary country,Sunday,"['contemporary country', 'country', 'country road']",160298
+615,5/3/2020 19:31,The Goo Goo Dolls,Come to Me,alternative rock,Sunday,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",225333
+616,5/3/2020 19:38,Luke Bryan,Fast,contemporary country,Sunday,"['contemporary country', 'country', 'country road']",69230
+617,5/3/2020 19:46,Rascal Flatts,Fast Cars And Freedom,contemporary country,Sunday,"['contemporary country', 'country', 'country road', 'pop rock']",248285
+618,5/3/2020 19:52,The Beatles,"Ob-La-Di, Ob-La-Da - Remastered 2009",beatlesque,Sunday,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",188960
+619,5/3/2020 19:56,Billy Joel,The Longest Time,album rock,Sunday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",77381
+620,5/3/2020 19:57,Declan McKenna,Brazil,indie pop,Sunday,"['indie pop', 'modern alternative rock', 'modern rock', 'rock']",62985
+621,5/3/2020 20:01,Emotional Oranges,West Coast Love,alternative r&b,Sunday,['alternative r&b'],212199
+622,5/3/2020 20:05,Enrique Iglesias,Bailando - Spanish Version,dance pop,Sunday,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop', 'tropical']",62971
+623,5/3/2020 21:05,Jay Park,좋아 Joah (Remastered),k-pop,Sunday,"['k-pop', 'k-rap', 'korean r&b']",230085
+624,5/3/2020 21:08,Macklemore & Ryan Lewis,White Walls (feat. ScHoolboy Q & Hollis),dance pop,Sunday,"['dance pop', 'pop', 'pop dance', 'pop rap', 'seattle hip hop']",219425
+625,5/3/2020 21:09,Ed Sheeran,Thinking out Loud,pop,Sunday,"['pop', 'uk pop']",42560
+626,5/4/2020 0:30,Jeremy Camp,Jesus Saves,anthem worship,Monday,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",225797
+627,5/4/2020 0:38,Riley Green,I Wish Grandpas Never Died,contemporary country,Monday,"['contemporary country', 'country road']",250413
+628,5/4/2020 0:42,One Direction,Story of My Life,boy band,Monday,"['boy band', 'pop', 'post-teen pop', 'talent show']",245493
+629,5/4/2020 0:45,American Authors,Go Big Or Go Home,indie poptimism,Monday,"['indie poptimism', 'modern alternative rock', 'modern rock', 'pop rock']",169026
+630,5/4/2020 0:59,Nico & Vinz,Am I Wrong,dance pop,Monday,"['dance pop', 'pop rap']",111306
+631,5/4/2020 3:29,Yiruma,Kiss The Rain,neo-classical,Monday,"['neo-classical', 'new age piano']",260653
+632,5/4/2020 3:39,John Denver,"Leaving, On a Jet Plane - ""Greatest Hits"" Version",adult standards,Monday,"['adult standards', 'classic country pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",245533
+633,5/4/2020 3:49,Old Dominion,Some People Do,contemporary country,Monday,"['contemporary country', 'country road']",196266
+634,5/4/2020 3:53,Blue Öyster Cult,Burnin' for You,album rock,Monday,"['album rock', 'art rock', 'blues rock', 'classic rock', 'hard rock', 'metal', 'rock', 'soft rock']",271000
+635,5/4/2020 3:57,Guy Sebastian,Like It Like That,australian pop,Monday,"['australian pop', 'australian talent show']",241973
+636,5/4/2020 4:01,Lady Gaga,Applause,dance pop,Monday,"['dance pop', 'pop', 'pop dance']",212333
+637,5/4/2020 4:04,Brett Eldredge,Beat of the Music,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'modern country rock']",179293
+638,5/4/2020 4:06,Anthony Gonzalez,Proud Corazón,movie tunes,Monday,['movie tunes'],123703
+639,5/4/2020 4:11,Keith Urban,Somebody Like You,australian country,Monday,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",323040
+640,5/4/2020 4:16,Los Lobos,"Come On, Let's Go",roots rock,Monday,['roots rock'],120466
+641,5/4/2020 4:21,Keith Urban,Cop Car,australian country,Monday,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",256746
+642,5/4/2020 4:23,Andy Grammer,Fine By Me,dance pop,Monday,"['dance pop', 'modern rock', 'neo mellow', 'pop', 'pop rock', 'post-teen pop']",172893
+643,5/4/2020 4:27,Old Dominion,Song for Another Time,contemporary country,Monday,"['contemporary country', 'country road']",191826
+644,5/4/2020 4:30,OMI,Cheerleader - Felix Jaehn Remix Radio Edit,dance pop,Monday,"['dance pop', 'pop dance']",181826
+645,5/4/2020 4:33,AMP,Far Greater,christian,Monday,['christian'],225020
+646,5/4/2020 4:38,Big Daddy Weave,My Story,anthem worship,Monday,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'worship']",278320
+647,5/4/2020 4:42,U2,Beautiful Day,irish rock,Monday,"['irish rock', 'permanent wave', 'rock']",244866
+648,5/4/2020 4:46,Duran Duran,Hungry Like the Wolf - 2009 Remaster,dance rock,Monday,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'synthpop']",220626
+649,5/4/2020 4:49,Sidewalk Prophets,Smile,anthem worship,Monday,"['anthem worship', 'ccm', 'christian alternative rock', 'christian indie', 'christian music', 'christian pop', 'worship']",176133
+650,5/4/2020 4:52,KONGOS,Come with Me Now,modern alternative rock,Monday,"['modern alternative rock', 'modern blues rock', 'modern rock', 'south african pop', 'south african rock']",211960
+651,5/4/2020 4:56,We The Kings,Kids In The Moonlight,neon pop punk,Monday,"['neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']",201813
+652,5/4/2020 4:59,Lorrie Morgan,He Drinks Tequila,country,Monday,"['country', 'country dawn', 'country rock']",189040
+653,5/4/2020 5:01,Post Malone,Psycho (feat. Ty Dolla $ign),dfw rap,Monday,"['dfw rap', 'melodic rap', 'rap']",74616
+654,5/4/2020 19:16,Hot Country Knights,Pick Her Up - Radio Edit,contemporary country,Monday,['contemporary country'],157232
+655,5/4/2020 19:20,Emotional Oranges,West Coast Love,alternative r&b,Monday,['alternative r&b'],215386
+656,5/4/2020 19:23,Thomas Rhett,Almost,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'modern country rock']",191591
+657,5/4/2020 19:26,Loud Luxury,Body On My,dance pop,Monday,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'tropical house']",192506
+658,5/4/2020 19:27,Shakira,Addicted to You,colombian pop,Monday,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",52399
+659,5/4/2020 19:33,Brett Dennen,Comeback Kid (That's My Dog),acoustic pop,Monday,"['acoustic pop', 'indie folk', 'neo mellow', 'pop rock', 'stomp and holler']",178863
+660,5/4/2020 19:39,Stealers Wheel,Stuck In The Middle With You,classic rock,Monday,"['classic rock', 'classic uk pop', 'folk rock', 'soft rock']",203893
+661,5/4/2020 19:44,Frankie Valli & The Four Seasons,"December, 1963 (Oh What a Night!)",adult standards,Monday,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'lounge', 'motown', 'northern soul', 'rock-and-roll']",87260
+662,5/4/2020 19:53,James Taylor,Carolina in My Mind,adult standards,Monday,"['adult standards', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",226328
+663,5/4/2020 19:58,First Class,Beach Baby,rock,Monday,['rock'],288189
+664,5/4/2020 20:01,Phil Collins,You Can't Hurry Love - 2016 Remaster,mellow gold,Monday,"['mellow gold', 'rock drums', 'soft rock']",170827
+665,5/4/2020 20:05,Tim McGraw,Thought About You,contemporary country,Monday,"['contemporary country', 'country', 'country road']",221817
+666,5/4/2020 20:08,The Jackson 5,I Want You Back,adult standards,Monday,"['adult standards', 'motown']",176333
+667,5/4/2020 20:11,Selena,Como La Flor - Remastered,dance pop,Monday,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",186373
+668,5/4/2020 20:13,Jennifer Lopez,Let's Get Loud,dance pop,Monday,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop', 'urban contemporary']",159217
+669,5/4/2020 20:17,Robin Schulz,Sugar (feat. Francesco Yates),dance pop,Monday,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']",219043
+670,5/4/2020 20:21,Dobie Gray,Drift Away,motown,Monday,"['motown', 'northern soul']",233706
+671,5/4/2020 20:27,Dire Straits,Romeo and Juliet,album rock,Monday,"['album rock', 'blues rock', 'classic rock', 'mellow gold', 'rock', 'soft rock']",361395
+672,5/4/2020 20:29,David Ball,Riding With Private Malone,country,Monday,"['country', 'country road', 'country rock']",107545
+673,5/4/2020 21:10,Billy Joel,The Longest Time,album rock,Monday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",217906
+674,5/4/2020 21:11,Afrojack,Ten Feet Tall,big room,Monday,"['big room', 'dance pop', 'deep big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'tropical house']",45713
+675,5/4/2020 21:13,Los Lobos,La Bamba,roots rock,Monday,['roots rock'],172733
+676,5/4/2020 21:16,Lobo,A Simple Man,adult standards,Monday,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",176440
+677,5/4/2020 21:18,Andrew Peterson,Dancing In The Minefields,acoustic pop,Monday,"['acoustic pop', 'anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'indiecoustica', 'roots worship', 'worship']",93866
+678,5/4/2020 21:21,Florida Georgia Line,H.O.L.Y.,contemporary country,Monday,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",194186
+679,5/4/2020 21:33,Train,Valentine,dance pop,Monday,"['dance pop', 'neo mellow', 'pop', 'pop rock']",205746
+680,5/4/2020 21:36,Niall Horan,Slow Hands,dance pop,Monday,"['dance pop', 'pop', 'post-teen pop']",188174
+681,5/4/2020 21:39,Lewis Capaldi,Someone You Loved,pop,Monday,"['pop', 'uk pop']",182160
+682,5/4/2020 21:44,Zac Brown Band,Toes,contemporary country,Monday,"['contemporary country', 'country', 'country road', 'modern country rock']",262773
+683,5/5/2020 1:37,Pentatonix,Somebody That I Used to Know,a cappella,Tuesday,['a cappella'],47265
+684,5/5/2020 3:42,The Kinks,Victoria - Stereo Mix,album rock,Tuesday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",88261
+685,5/5/2020 4:14,The Kinks,Victoria - Stereo Mix,album rock,Tuesday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",217710
+686,5/5/2020 4:36,King Calaway,World For Two,country pop,Tuesday,['country pop'],34010
+687,5/5/2020 4:37,Walker Hayes,90's Country,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'modern country rock']",41900
+688,5/5/2020 4:37,Jaron And The Long Road To Love,Pray For You,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'modern country rock']",31690
+689,5/5/2020 4:39,LOCASH,One Big Country Song,contemporary country,Tuesday,"['contemporary country', 'country pop', 'country rap', 'country road', 'modern country rock']",139330
+690,5/5/2020 4:42,Bowling For Soup,I Melt With You,comic,Tuesday,"['comic', 'pop punk', 'texas pop punk']",61010
+691,5/5/2020 4:43,Billy Currington,Details,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'modern country rock']",40510
+692,5/5/2020 4:46,Mark Wills,19 Somethin' - Greatest Hits Version,contemporary country,Tuesday,"['contemporary country', 'country', 'country road']",114600
+693,5/5/2020 4:47,The Afters,Moments Like This,anthem worship,Tuesday,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'christian pop', 'christian rock', 'world worship', 'worship']",66050
+694,5/5/2020 4:49,Levon,Ms. Marianne,alternative country,Tuesday,"['alternative country', 'blues rock', 'country rock', 'folk', 'folk rock', 'jam band', 'new americana', 'rock drums', 'roots rock', 'traditional folk']",68460
+695,5/5/2020 4:53,Mitchell Tenpenny,Alcohol You Later,contemporary country,Tuesday,"['contemporary country', 'heartland rock']",37410
+696,5/5/2020 4:54,The Railers,11:59 (Central Standard Time),country,Tuesday,['country'],66950
+697,5/5/2020 4:56,Backstreet Boys,No Place,boy band,Tuesday,"['boy band', 'dance pop', 'europop']",36500
+698,5/5/2020 4:59,Kenny Chesney,Happy Does,contemporary country,Tuesday,"['contemporary country', 'country', 'country road']",63800
+699,5/5/2020 5:02,Uncle Kracker,No Time To Be Sober,country,Tuesday,"['country', 'country road', 'pop rock']",80800
+700,5/5/2020 5:04,High Valley,Northern Star,alberta country,Tuesday,"['alberta country', 'canadian contemporary country', 'canadian country', 'contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",149660
+701,5/5/2020 5:08,Sammy Adams,On My Own,indie pop rap,Tuesday,"['indie pop rap', 'pop rap']",43180
+702,5/5/2020 5:08,Luke Combs,Six Feet Apart,contemporary country,Tuesday,['contemporary country'],182660
+703,5/5/2020 5:09,TobyMac,See The Light - Radio Version,ccm,Tuesday,"['ccm', 'christian alternative rock', 'christian hip hop', 'christian music', 'worship']",51420
+704,5/5/2020 5:21,Keith Urban,Polaroid,australian country,Tuesday,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",36200
+705,5/5/2020 5:22,Florida Georgia Line,I Love My Country - Acoustic At Home,contemporary country,Tuesday,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",81210
+706,5/5/2020 5:23,Hillsong Worship,Awake My Soul - Live,ccm,Tuesday,"['ccm', 'christian music', 'russian ccm', 'world worship', 'worship']",61520
+707,5/5/2020 5:26,The Killers,Fire In Bone,modern rock,Tuesday,"['modern rock', 'permanent wave', 'rock']",35100
+708,5/5/2020 5:27,The Killers,Human,modern rock,Tuesday,"['modern rock', 'permanent wave', 'rock']",62810
+709,5/5/2020 5:32,The Kinks,You Really Got Me - Mono Mix,album rock,Tuesday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",72230
+710,5/5/2020 5:33,The Kinks,Lola - Coca Cola Version,album rock,Tuesday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",38570
+711,5/5/2020 5:33,The Kinks,You Really Got Me - 2014 Remastered Version,album rock,Tuesday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",31810
+712,5/5/2020 5:35,The Kinks,Sunny Afternoon - Mono Mix,album rock,Tuesday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",37660
+713,5/5/2020 5:35,The Kinks,All Day and All of the Night,album rock,Tuesday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",33160
+714,5/5/2020 20:03,Starfield,Filled With Your Glory,canadian ccm,Tuesday,"['canadian ccm', 'ccm', 'christian alternative rock', 'christian music', 'worship']",143153
+715,5/5/2020 20:07,Zac Brown Band,The Wind,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'modern country rock']",167095
+716,5/5/2020 20:09,The Kinks,Victoria - Stereo Mix,album rock,Tuesday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",105248
+717,5/5/2020 20:53,The Kinks,Victoria - Stereo Mix,album rock,Tuesday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",220280
+718,5/5/2020 21:01,Kings of Leon,Sex on Fire,modern rock,Tuesday,"['modern rock', 'rock']",203346
+719,5/5/2020 21:06,Declan McKenna,Brazil,indie pop,Tuesday,"['indie pop', 'modern alternative rock', 'modern rock', 'rock']",252306
+720,5/5/2020 21:12,The Kinks,You Really Got Me - Mono Mix,album rock,Tuesday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",134253
+721,5/5/2020 21:23,Rascal Flatts,Fast Cars And Freedom,contemporary country,Tuesday,"['contemporary country', 'country', 'country road', 'pop rock']",262186
+722,5/6/2020 2:18,Luke Combs,Six Feet Apart,contemporary country,Wednesday,['contemporary country'],199068
+723,5/6/2020 2:22,Billy Joel,The Longest Time,album rock,Wednesday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",208220
+724,5/6/2020 5:32,Declan McKenna,Brazil,indie pop,Wednesday,"['indie pop', 'modern alternative rock', 'modern rock', 'rock']",116930
+725,5/6/2020 15:10,ABBA,Mamma Mia,europop,Wednesday,"['europop', 'swedish pop']",215266
+726,5/6/2020 15:43,Luke Combs,Beautiful Crazy,contemporary country,Wednesday,['contemporary country'],193200
+727,5/6/2020 15:49,Paolo Nutini,New Shoes,british soul,Wednesday,"['british soul', 'neo mellow', 'scottish singer-songwriter']",203653
+728,5/6/2020 15:55,Uncle Kracker,Smile,country,Wednesday,"['country', 'country road', 'pop rock']",201626
+729,5/6/2020 15:59,Luke Bryan,One Margarita,contemporary country,Wednesday,"['contemporary country', 'country', 'country road']",193426
+730,5/6/2020 16:15,The Kinks,Victoria - Stereo Mix,album rock,Wednesday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",220280
+731,5/6/2020 16:41,Emotional Oranges,Sundays,alternative r&b,Wednesday,['alternative r&b'],189093
+732,5/6/2020 16:48,Stealers Wheel,Stuck In The Middle With You,classic rock,Wednesday,"['classic rock', 'classic uk pop', 'folk rock', 'soft rock']",203893
+733,5/6/2020 17:17,Old Dominion,No Such Thing as a Broken Heart,contemporary country,Wednesday,"['contemporary country', 'country road']",176083
+734,5/6/2020 17:22,Blue Öyster Cult,Burnin' for You,album rock,Wednesday,"['album rock', 'art rock', 'blues rock', 'classic rock', 'hard rock', 'metal', 'rock', 'soft rock']",271000
+735,5/6/2020 17:26,Elton John,Don't Go Breaking My Heart,glam rock,Wednesday,"['glam rock', 'mellow gold', 'piano rock', 'soft rock']",271133
+736,5/6/2020 17:30,The Kinks,Victoria - Stereo Mix,album rock,Wednesday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",220280
+737,5/6/2020 17:32,The Kinks,You Really Got Me - Mono Mix,album rock,Wednesday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",134253
+738,5/6/2020 17:35,Kenny Chesney,American Kids,contemporary country,Wednesday,"['contemporary country', 'country', 'country road']",182960
+739,5/6/2020 17:42,Carpenters,Top Of The World,adult standards,Wednesday,"['adult standards', 'brill building pop', 'mellow gold', 'soft rock']",179173
+740,5/6/2020 17:48,Dan + Shay,Road Trippin',contemporary country,Wednesday,"['contemporary country', 'pop']",101504
+741,5/6/2020 17:51,The Beach Boys,I Get Around (Mono),baroque pop,Wednesday,"['baroque pop', 'brill building pop', 'classic rock', 'folk rock', 'psychedelic rock', 'rock', 'sunshine pop']",129248
+742,5/6/2020 17:54,Led Zeppelin,Immigrant Song - Remaster,album rock,Wednesday,"['album rock', 'classic rock', 'hard rock', 'rock']",144106
+743,5/6/2020 17:57,Rascal Flatts,Dance,contemporary country,Wednesday,"['contemporary country', 'country', 'country road', 'pop rock']",199271
+744,5/6/2020 17:59,Merle Haggard,Mama Tried,bakersfield sound,Wednesday,"['bakersfield sound', 'country', 'country rock', 'nashville sound', 'outlaw country']",134453
+745,5/6/2020 18:03,Old Dominion,Snapback,contemporary country,Wednesday,"['contemporary country', 'country road']",205322
+746,5/6/2020 18:07,John Parr,St. Elmos Fire (Man in Motion),album rock,Wednesday,"['album rock', 'mellow gold', 'new wave pop', 'soft rock']",251800
+747,5/6/2020 18:10,Simple Plan,Jet Lag (feat. Natasha Bedingfield),canadian pop punk,Wednesday,"['canadian pop punk', 'canadian punk', 'canadian rock', 'pop punk']",204526
+748,5/6/2020 18:18,Jonas Brothers,Lovebug,boy band,Wednesday,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",218408
+749,5/6/2020 18:48,Boston,Peace of Mind,album rock,Wednesday,"['album rock', 'art rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",300194
+750,5/6/2020 18:55,Hinder,Lips Of An Angel,alternative metal,Wednesday,"['alternative metal', 'nu metal', 'pop rock', 'post-grunge']",256431
+751,5/6/2020 18:59,Justin Moore,If Heaven Wasn't So Far Away,arkansas country,Wednesday,"['arkansas country', 'contemporary country', 'country', 'country road', 'modern country rock', 'redneck']",223280
+752,5/6/2020 19:03,Fall Out Boy,"Sugar, We're Goin Down",emo,Wednesday,"['emo', 'modern rock', 'pop punk']",229093
+753,5/6/2020 19:10,Keith Urban,Even The Stars Fall 4 U,australian country,Wednesday,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road']",239400
+754,5/6/2020 22:05,Jelani Aryeh,Stella Brown,alternative r&b,Wednesday,"['alternative r&b', 'bedroom soul']",187415
+755,5/6/2020 22:07,Declan McKenna,Brazil,indie pop,Wednesday,"['indie pop', 'modern alternative rock', 'modern rock', 'rock']",82119
+756,5/6/2020 22:17,Tiësto,WOW,big room,Wednesday,"['big room', 'brostep', 'dance pop', 'dutch edm', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'trance', 'tropical house']",148125
+757,5/6/2020 22:20,Skillet,Feel Invincible,alternative metal,Wednesday,"['alternative metal', 'christian alternative rock', 'christian music', 'christian rock']",193241
+758,5/7/2020 20:53,Sam Hunt,Hard To Forget,contemporary country,Thursday,"['contemporary country', 'country pop']",204760
+759,5/7/2020 21:38,Carrie Underwood,Some Hearts,contemporary country,Thursday,"['contemporary country', 'country', 'country dawn', 'country road', 'dance pop', 'oklahoma country', 'pop', 'post-teen pop']",228426
+760,5/7/2020 21:46,KANA-BOON,Silhouette,anime,Thursday,"['anime', 'j-pop', 'j-poprock', 'j-rock']",240133
+761,5/7/2020 22:02,Spencer Crandall,Do It All Again,contemporary country,Thursday,"['contemporary country', 'country pop']",203018
+762,5/7/2020 22:27,Old Dominion,My Heart Is a Bar,contemporary country,Thursday,"['contemporary country', 'country road']",238986
+763,5/8/2020 5:56,Zac Brown Band,Mango Tree,contemporary country,Friday,"['contemporary country', 'country', 'country road', 'modern country rock']",75850
+764,5/8/2020 8:40,Christina Perri,A Thousand Years,dance pop,Friday,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",149690
+765,5/8/2020 21:56,Billy Joel,The Longest Time,album rock,Friday,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",130665
+766,5/8/2020 22:03,Luke Combs,Six Feet Apart,contemporary country,Friday,['contemporary country'],195764
+767,5/8/2020 22:13,The Weeknd,Blinding Lights,canadian contemporary r&b,Friday,"['canadian contemporary r&b', 'canadian pop', 'pop']",200040
+768,5/8/2020 22:19,Declan McKenna,Brazil,indie pop,Friday,"['indie pop', 'modern alternative rock', 'modern rock', 'rock']",114885
+769,5/8/2020 23:47,The Kinks,Victoria - Stereo Mix,album rock,Friday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",35410
+770,5/9/2020 0:32,Luke Combs,Six Feet Apart,contemporary country,Saturday,['contemporary country'],199068
+771,5/9/2020 0:47,The Kinks,Victoria - Stereo Mix,album rock,Saturday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",213674
+772,5/9/2020 0:50,Joseph Vincent,Set You Free,pop,Saturday,"['pop', 'viral pop']",203091
+773,5/9/2020 0:52,Sammy Johns,Chevy Van,jawaiian,Saturday,"['jawaiian', 'polynesian pop']",79644
+774,5/9/2020 0:54,Sammy Johns,Chevy Van,jawaiian,Saturday,"['jawaiian', 'polynesian pop']",98590
+775,5/9/2020 1:01,Plain White T's,Rhythm Of Love,neo mellow,Saturday,"['neo mellow', 'pop', 'pop punk', 'pop rock']",195848
+776,5/9/2020 1:07,Chris Young,Town Ain't Big Enough,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'modern country rock']",171800
+777,5/9/2020 1:08,Olly Murs,Dance with Me Tonight,dance pop,Saturday,"['dance pop', 'europop', 'pop', 'pop dance', 'pop rock', 'post-teen pop', 'talent show', 'tropical house', 'uk pop']",42641
+778,5/9/2020 2:01,The Foundations,Build Me Up Buttercup,brill building pop,Saturday,"['brill building pop', 'bubblegum pop', 'folk rock', 'motown']",177533
+779,5/9/2020 2:02,Jonas Brothers,BB Good,boy band,Saturday,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",65200
+780,5/9/2020 2:06,Christina Perri,A Thousand Years,dance pop,Saturday,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",277069
+781,5/9/2020 2:27,Luke Combs,Beautiful Crazy,contemporary country,Saturday,['contemporary country'],193200
+782,5/9/2020 2:28,Anthem Lights,Follow Your Heart,ccm,Saturday,"['ccm', 'christian alternative rock', 'christian music', 'viral pop']",40176
+783,5/9/2020 2:31,Lady A,What I’m Leaving For,contemporary country,Saturday,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road', 'neo mellow', 'pop rock']",197643
+784,5/9/2020 2:34,Blake Shelton,Nobody But You (Duet with Gwen Stefani) - Acoustic,contemporary country,Saturday,"['contemporary country', 'country', 'country road', 'oklahoma country']",198413
+785,5/9/2020 2:38,Luke Combs,Six Feet Apart,contemporary country,Saturday,['contemporary country'],190391
+786,5/9/2020 21:54,The Kinks,Victoria - Stereo Mix,album rock,Saturday,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock', 'folk rock', 'glam rock', 'mellow gold', 'protopunk', 'psychedelic rock', 'rock', 'roots rock']",189993
+787,5/9/2020 22:09,Bobby Day,Rockin' Robin,doo-wop,Saturday,"['doo-wop', 'rhythm and blues', 'rock-and-roll', 'rockabilly']",160080
