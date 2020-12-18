@@ -1,8 +1,18 @@
 #utils.py
+
+import requests
+import json
+import datetime
+import calendar
+import matplotlib.pyplot as plt
+
 #https://docs.python.org/3/library/datetime.html
 def getDay(date): 
     day = datetime.datetime.strptime(date, '%Y-%m-%d %H:%M').weekday() 
     return (calendar.day_name[day]) 
+    
+token = "BQAk1-6tEhdU_qMUU4oylI82FAAHOShwHmz__zN68NRqQPoUnKb7Ihs6yl0ZyJgzrUOH-QmTK8mzBeTO0sxRP45pakv_AAwJmb2qsMjTABh2j4lZfzKDMTwT5-1naIzHEaFfdwfuK3ktPsCU4q5s3LkV "
+API_endpoint = "https://api.spotify.com/v1/search"
 
 def make_request(fullURL):
     headers = {"Accept": "application/json", "Content-Type": "application/json", "Authorization": "Bearer " + token}
@@ -29,9 +39,10 @@ def get_genres(json_obj):
     return genres
 
 def main(ser, x):
-    json_obj = search_request(ser[i], "artist")
-    genres = get_genres(json_obj)
-    x.append(genres)
+    for i in range(0, len(ser), 1):
+        json_obj = search_request(ser[i], "artist")
+        genres = get_genres(json_obj)
+        x.append(genres)
     
 def histogram(x, y):
     plt.figure()
